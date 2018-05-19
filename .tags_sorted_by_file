@@ -1,0 +1,1091 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+toggleFolder	doc/iFlytek MSC Reference Manual/dynsections.js	/^function toggleFolder(id)$/;"	f
+toggleInherit	doc/iFlytek MSC Reference Manual/dynsections.js	/^function toggleInherit(id)$/;"	f
+toggleLevel	doc/iFlytek MSC Reference Manual/dynsections.js	/^function toggleLevel(level)$/;"	f
+toggleVisibility	doc/iFlytek MSC Reference Manual/dynsections.js	/^function toggleVisibility(linkObj)$/;"	f
+updateStripes	doc/iFlytek MSC Reference Manual/dynsections.js	/^function updateStripes()$/;"	f
+details	doc/iFlytek MSC Reference Manual/msp__cmn_8h.html	/^<a name="details" id="details"><\/a><h2 class="groupheader">详细描述<\/h2>$/;"	a
+func-members	doc/iFlytek MSC Reference Manual/msp__cmn_8h.html	/^<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"><\/a>$/;"	a
+l00001	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<a href="msp__cmn_8h.html">浏览该文件的文档.<\/a><div class="fragment"><div class="line"><a name="l00001"><\/a><span class="lineno">    1<\/span>&#160;<\/div>$/;"	a
+l00059	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00059"><\/a><span class="lineno">   59<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="msp__cmn_8h.html#a137acfe684fe46cbe5baf19f7d4a7fcc">MSPLogin<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* usr, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* pwd, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* params);<\/div>$/;"	a
+l00060	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00060"><\/a><span class="lineno">   60<\/span>&#160;<\/div>$/;"	a
+l00113	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00113"><\/a><span class="lineno">  113<\/span>&#160;<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* MSPAPI <a class="code" href="msp__cmn_8h.html#ada276fa6db4a66342d951820020e4e8f">MSPUploadData<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* dataName, <span class="keywordtype">void<\/span>* data, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span> dataLen, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* params, <span class="keywordtype">int<\/span>* errorCode);<\/div>$/;"	a
+l00168	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00168"><\/a><span class="lineno">  168<\/span>&#160;<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* MSPAPI <a class="code" href="msp__cmn_8h.html#ae7be2dd2c6ee318524621b952998c14d">MSPSearch<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* params, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* text, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span>* dataLen, <span class="keywordtype">int<\/span>* errorCode);<\/div>$/;"	a
+l00185	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00185"><\/a><span class="lineno">  185<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="msp__cmn_8h.html#a1e0f72cd113b4578afdf3d16ab34463e">MSPLogout<\/a>();<\/div>$/;"	a
+l00186	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00186"><\/a><span class="lineno">  186<\/span>&#160;<\/div>$/;"	a
+l00211	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00211"><\/a><span class="lineno">  211<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="msp__cmn_8h.html#adda40e907aa1a1fb781efe986556e751">MSPSetParam<\/a>( <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* paramName, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* paramValue );<\/div>$/;"	a
+l00212	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00212"><\/a><span class="lineno">  212<\/span>&#160;<\/div>$/;"	a
+l00213	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00213"><\/a><span class="lineno">  213<\/span>&#160;<\/div>$/;"	a
+l00240	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00240"><\/a><span class="lineno">  240<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="msp__cmn_8h.html#a4d3fa0aad5e761cb2a2afe30ae2a9714">MSPGetParam<\/a>( <span class="keyword">const<\/span> <span class="keywordtype">char<\/span> *paramName, <span class="keywordtype">char<\/span> *paramValue, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span> *valueLen );<\/div>$/;"	a
+l00256	doc/iFlytek MSC Reference Manual/msp__cmn_8h_source.html	/^<div class="line"><a name="l00256"><\/a><span class="lineno">  256<\/span>&#160; <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* MSPAPI <a class="code" href="msp__cmn_8h.html#a632008aeddf5eba09555920ce38686a4">MSPGetVersion<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span> *verName, <span class="keywordtype">int<\/span> *errorCode);<\/div>$/;"	a
+details	doc/iFlytek MSC Reference Manual/qise_8h.html	/^<a name="details" id="details"><\/a><h2 class="groupheader">详细描述<\/h2>$/;"	a
+func-members	doc/iFlytek MSC Reference Manual/qise_8h.html	/^<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"><\/a>$/;"	a
+l00001	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<a href="qise_8h.html">浏览该文件的文档.<\/a><div class="fragment"><div class="line"><a name="l00001"><\/a><span class="lineno">    1<\/span>&#160;<\/div>$/;"	a
+l00078	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00078"><\/a><span class="lineno">   78<\/span>&#160;<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* MSPAPI <a class="code" href="qise_8h.html#a4bffbcea9f255da99ee22aad62708211">QISESessionBegin<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* params, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* userModelId, <span class="keywordtype">int<\/span>* errorCode);<\/div>$/;"	a
+l00079	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00079"><\/a><span class="lineno">   79<\/span>&#160;<\/div>$/;"	a
+l00100	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00100"><\/a><span class="lineno">  100<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qise_8h.html#a08f4552a392de5667b75329125f1873b">QISETextPut<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* textString, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span> textLen, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* params);<\/div>$/;"	a
+l00101	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00101"><\/a><span class="lineno">  101<\/span>&#160;<\/div>$/;"	a
+l00166	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00166"><\/a><span class="lineno">  166<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qise_8h.html#a3cfd5070e9b90971f4695cb42d0d5a46">QISEAudioWrite<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">void<\/span>* waveData, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span> waveLen, <span class="keywordtype">int<\/span> audioStatus, <span class="keywordtype">int<\/span> *epStatus, <span class="keywordtype">int<\/span> *Status);<\/div>$/;"	a
+l00167	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00167"><\/a><span class="lineno">  167<\/span>&#160;<\/div>$/;"	a
+l00204	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00204"><\/a><span class="lineno">  204<\/span>&#160;<span class="keyword">const<\/span> <span class="keywordtype">char<\/span> * MSPAPI <a class="code" href="qise_8h.html#a3749ae7c9cfb830301dea93ee8c626f3">QISEGetResult<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span>* rsltLen, <span class="keywordtype">int<\/span>* rsltStatus, <span class="keywordtype">int<\/span> *errorCode);<\/div>$/;"	a
+l00205	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00205"><\/a><span class="lineno">  205<\/span>&#160;<\/div>$/;"	a
+l00206	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00206"><\/a><span class="lineno">  206<\/span>&#160;<\/div>$/;"	a
+l00224	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00224"><\/a><span class="lineno">  224<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qise_8h.html#a10031b2946a4c3cd44e6bfc5590a718a">QISESessionEnd<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* hints);<\/div>$/;"	a
+l00225	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00225"><\/a><span class="lineno">  225<\/span>&#160;<\/div>$/;"	a
+l00226	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00226"><\/a><span class="lineno">  226<\/span>&#160;<\/div>$/;"	a
+l00227	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00227"><\/a><span class="lineno">  227<\/span>&#160;<\/div>$/;"	a
+l00228	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00228"><\/a><span class="lineno">  228<\/span>&#160;<\/div>$/;"	a
+l00229	doc/iFlytek MSC Reference Manual/qise_8h_source.html	/^<div class="line"><a name="l00229"><\/a><span class="lineno">  229<\/span>&#160;<\/div>$/;"	a
+details	doc/iFlytek MSC Reference Manual/qisr_8h.html	/^<a name="details" id="details"><\/a><h2 class="groupheader">详细描述<\/h2>$/;"	a
+func-members	doc/iFlytek MSC Reference Manual/qisr_8h.html	/^<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"><\/a>$/;"	a
+l00001	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<a href="qisr_8h.html">浏览该文件的文档.<\/a><div class="fragment"><div class="line"><a name="l00001"><\/a><span class="lineno">    1<\/span>&#160;<\/div>$/;"	a
+l00092	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00092"><\/a><span class="lineno">   92<\/span>&#160;<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* MSPAPI <a class="code" href="qisr_8h.html#aaec4a5779275e07c4f7405ed8d739416">QISRSessionBegin<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* grammarList, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* params, <span class="keywordtype">int<\/span>* errorCode);<\/div>$/;"	a
+l00093	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00093"><\/a><span class="lineno">   93<\/span>&#160;<\/div>$/;"	a
+l00094	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00094"><\/a><span class="lineno">   94<\/span>&#160;<\/div>$/;"	a
+l00156	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00156"><\/a><span class="lineno">  156<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qisr_8h.html#a47fd2588fe834fa2d51fef1961d7aef4">QISRAudioWrite<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">void<\/span>* waveData, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span> waveLen, <span class="keywordtype">int<\/span> audioStatus, <span class="keywordtype">int<\/span> *epStatus, <span class="keywordtype">int<\/span> *recogStatus);<\/div>$/;"	a
+l00157	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00157"><\/a><span class="lineno">  157<\/span>&#160;<\/div>$/;"	a
+l00158	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00158"><\/a><span class="lineno">  158<\/span>&#160;<\/div>$/;"	a
+l00195	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00195"><\/a><span class="lineno">  195<\/span>&#160;<span class="keyword">const<\/span> <span class="keywordtype">char<\/span> * MSPAPI <a class="code" href="qisr_8h.html#a2e7880db4792266a4d1439238c0b2c1b">QISRGetResult<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keywordtype">int<\/span>* rsltStatus, <span class="keywordtype">int<\/span> waitTime, <span class="keywordtype">int<\/span> *errorCode);<\/div>$/;"	a
+l00196	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00196"><\/a><span class="lineno">  196<\/span>&#160;<\/div>$/;"	a
+l00197	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00197"><\/a><span class="lineno">  197<\/span>&#160;<\/div>$/;"	a
+l00198	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00198"><\/a><span class="lineno">  198<\/span>&#160;<\/div>$/;"	a
+l00216	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00216"><\/a><span class="lineno">  216<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qisr_8h.html#ab50c4114e032100c4093ddd51329fecc">QISRSessionEnd<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* hints);<\/div>$/;"	a
+l00217	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00217"><\/a><span class="lineno">  217<\/span>&#160;<\/div>$/;"	a
+l00218	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00218"><\/a><span class="lineno">  218<\/span>&#160;<\/div>$/;"	a
+l00248	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00248"><\/a><span class="lineno">  248<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qisr_8h.html#a2081e3cad9a8155c15790a2476be7044">QISRGetParam<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* paramName, <span class="keywordtype">char<\/span>* paramValue, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span>* valueLen);<\/div>$/;"	a
+l00249	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00249"><\/a><span class="lineno">  249<\/span>&#160;<\/div>$/;"	a
+l00250	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00250"><\/a><span class="lineno">  250<\/span>&#160;<\/div>$/;"	a
+l00251	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00251"><\/a><span class="lineno">  251<\/span>&#160;<\/div>$/;"	a
+l00276	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00276"><\/a><span class="lineno">  276<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qisr_8h.html#a1895f14ba0cfec5b9504890100c41652">QISRBuildGrammar<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span> *grammarType, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span> *grammarContent, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span> grammarLength, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span> *params, GrammarCallBack callback, <span class="keywordtype">void<\/span> *userData);<\/div>$/;"	a
+l00277	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00277"><\/a><span class="lineno">  277<\/span>&#160;<\/div>$/;"	a
+l00278	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00278"><\/a><span class="lineno">  278<\/span>&#160;<\/div>$/;"	a
+l00306	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00306"><\/a><span class="lineno">  306<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qisr_8h.html#a4be034ad09a1d6768fd0d47d06bb22f6">QISRUpdateLexicon<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span> *lexiconName, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span> *lexiconContent, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span> lexiconLength, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span> *params, LexiconCallBack callback, <span class="keywordtype">void<\/span> *userData);<\/div>$/;"	a
+l00307	doc/iFlytek MSC Reference Manual/qisr_8h_source.html	/^<div class="line"><a name="l00307"><\/a><span class="lineno">  307<\/span>&#160;<\/div>$/;"	a
+details	doc/iFlytek MSC Reference Manual/qmfv_8h.html	/^<a name="details" id="details"><\/a><h2 class="groupheader">详细描述<\/h2>$/;"	a
+func-members	doc/iFlytek MSC Reference Manual/qmfv_8h.html	/^<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"><\/a>$/;"	a
+l00001	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<a href="qmfv_8h.html">浏览该文件的文档.<\/a><div class="fragment"><div class="line"><a name="l00001"><\/a><span class="lineno">    1<\/span>&#160;<\/div>$/;"	a
+l00052	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00052"><\/a><span class="lineno">   52<\/span>&#160;<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* MSPAPI <a class="code" href="qmfv_8h.html#adbe23b402d4c50b4c06f47ca26253be5">QMFVSessionBegin<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* params, <span class="keywordtype">int<\/span>* errorCode);<\/div>$/;"	a
+l00053	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00053"><\/a><span class="lineno">   53<\/span>&#160;<\/div>$/;"	a
+l00054	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00054"><\/a><span class="lineno">   54<\/span>&#160;<\/div>$/;"	a
+l00105	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00105"><\/a><span class="lineno">  105<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qmfv_8h.html#a081a01b2add2dfac3010ec7cd8ba5eac">QMFVDataWrite<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* params, <span class="keyword">const<\/span> <span class="keywordtype">void<\/span>* data, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span> dataLen, <span class="keywordtype">int<\/span> *resultStatus);<\/div>$/;"	a
+l00106	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00106"><\/a><span class="lineno">  106<\/span>&#160;<\/div>$/;"	a
+l00119	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00119"><\/a><span class="lineno">  119<\/span>&#160;<span class="keyword">const<\/span> <span class="keywordtype">void<\/span> * MSPAPI <a class="code" href="qmfv_8h.html#aa87716ad6b28326982626c0c6a6ffcbd">QMFVGetResult<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span>* resultLen, <span class="keywordtype">int<\/span>* resultStatus, <span class="keywordtype">int<\/span> *errorCode);<\/div>$/;"	a
+l00120	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00120"><\/a><span class="lineno">  120<\/span>&#160;<\/div>$/;"	a
+l00152	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00152"><\/a><span class="lineno">  152<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qmfv_8h.html#a7174d943c2f1691f6a8c717429d43f8d">QMFVGetParam<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* paramName, <span class="keywordtype">char<\/span>* paramValue, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span>* valueLen);<\/div>$/;"	a
+l00153	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00153"><\/a><span class="lineno">  153<\/span>&#160;<\/div>$/;"	a
+l00154	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00154"><\/a><span class="lineno">  154<\/span>&#160;<\/div>$/;"	a
+l00172	doc/iFlytek MSC Reference Manual/qmfv_8h_source.html	/^<div class="line"><a name="l00172"><\/a><span class="lineno">  172<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qmfv_8h.html#ad4ea72dd39285348cf26c627d67c6b65">QMFVSessionEnd<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* hints);<\/div>$/;"	a
+details	doc/iFlytek MSC Reference Manual/qtts_8h.html	/^<a name="details" id="details"><\/a><h2 class="groupheader">详细描述<\/h2>$/;"	a
+func-members	doc/iFlytek MSC Reference Manual/qtts_8h.html	/^<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"><\/a>$/;"	a
+l00001	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<a href="qtts_8h.html">浏览该文件的文档.<\/a><div class="fragment"><div class="line"><a name="l00001"><\/a><span class="lineno">    1<\/span>&#160;<\/div>$/;"	a
+l00097	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00097"><\/a><span class="lineno">   97<\/span>&#160;<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* MSPAPI <a class="code" href="qtts_8h.html#a3fba4ad9599445073335851cc9479542">QTTSSessionBegin<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* params, <span class="keywordtype">int<\/span>* errorCode);<\/div>$/;"	a
+l00098	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00098"><\/a><span class="lineno">   98<\/span>&#160;<\/div>$/;"	a
+l00099	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00099"><\/a><span class="lineno">   99<\/span>&#160;<\/div>$/;"	a
+l00121	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00121"><\/a><span class="lineno">  121<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qtts_8h.html#a5b7d146d6a35341d4d73efd720ae987b">QTTSTextPut<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* textString, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span> textLen, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* params);<\/div>$/;"	a
+l00122	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00122"><\/a><span class="lineno">  122<\/span>&#160;<\/div>$/;"	a
+l00123	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00123"><\/a><span class="lineno">  123<\/span>&#160;<\/div>$/;"	a
+l00157	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00157"><\/a><span class="lineno">  157<\/span>&#160;<span class="keyword">const<\/span> <span class="keywordtype">void<\/span>* MSPAPI <a class="code" href="qtts_8h.html#a4e4f6bed4b9e4ea553aa00ccf539c22a">QTTSAudioGet<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span>* audioLen, <span class="keywordtype">int<\/span>* synthStatus, <span class="keywordtype">int<\/span>* errorCode);<\/div>$/;"	a
+l00158	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00158"><\/a><span class="lineno">  158<\/span>&#160;<\/div>$/;"	a
+l00159	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00159"><\/a><span class="lineno">  159<\/span>&#160;<\/div>$/;"	a
+l00177	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00177"><\/a><span class="lineno">  177<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qtts_8h.html#a75d5047a2a889dbd890d116a6d0b550a">QTTSSessionEnd<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* hints);<\/div>$/;"	a
+l00178	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00178"><\/a><span class="lineno">  178<\/span>&#160;<\/div>$/;"	a
+l00179	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00179"><\/a><span class="lineno">  179<\/span>&#160;<\/div>$/;"	a
+l00209	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00209"><\/a><span class="lineno">  209<\/span>&#160;<span class="keywordtype">int<\/span> MSPAPI <a class="code" href="qtts_8h.html#a0812612ff738a828490e4e3db59767e8">QTTSGetParam<\/a>(<span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* sessionID, <span class="keyword">const<\/span> <span class="keywordtype">char<\/span>* paramName, <span class="keywordtype">char<\/span>* paramValue, <span class="keywordtype">unsigned<\/span> <span class="keywordtype">int<\/span>* valueLen);<\/div>$/;"	a
+l00210	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00210"><\/a><span class="lineno">  210<\/span>&#160;<\/div>$/;"	a
+l00211	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00211"><\/a><span class="lineno">  211<\/span>&#160;<\/div>$/;"	a
+l00212	doc/iFlytek MSC Reference Manual/qtts_8h_source.html	/^<div class="line"><a name="l00212"><\/a><span class="lineno">  212<\/span>&#160;<\/div>$/;"	a
+searchData	doc/iFlytek MSC Reference Manual/search/all_0.js	/^var searchData=$/;"	v
+searchData	doc/iFlytek MSC Reference Manual/search/all_1.js	/^var searchData=$/;"	v
+searchData	doc/iFlytek MSC Reference Manual/search/files_0.js	/^var searchData=$/;"	v
+searchData	doc/iFlytek MSC Reference Manual/search/files_1.js	/^var searchData=$/;"	v
+searchData	doc/iFlytek MSC Reference Manual/search/functions_0.js	/^var searchData=$/;"	v
+searchData	doc/iFlytek MSC Reference Manual/search/functions_1.js	/^var searchData=$/;"	v
+Activate	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.Activate = function(isActive)$/;"	m	class:SearchBox
+CloseResultsWindow	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.CloseResultsWindow = function()$/;"	m	class:SearchBox
+CloseSelectionWindow	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.CloseSelectionWindow = function()$/;"	m	class:SearchBox
+DOMPopupSearchResults	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.DOMPopupSearchResults = function()$/;"	m	class:SearchBox
+DOMPopupSearchResultsWindow	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.DOMPopupSearchResultsWindow = function()$/;"	m	class:SearchBox
+DOMSearchBox	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.DOMSearchBox = function()$/;"	m	class:SearchBox
+DOMSearchClose	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.DOMSearchClose = function()$/;"	m	class:SearchBox
+DOMSearchField	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.DOMSearchField = function()$/;"	m	class:SearchBox
+DOMSearchSelect	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.DOMSearchSelect = function()$/;"	m	class:SearchBox
+DOMSearchSelectWindow	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.DOMSearchSelectWindow = function()$/;"	m	class:SearchBox
+FindChildElement	doc/iFlytek MSC Reference Manual/search/search.js	/^    this.FindChildElement = function(id)$/;"	m	class:SearchResults
+Nav	doc/iFlytek MSC Reference Manual/search/search.js	/^    this.Nav = function(evt,itemIndex)$/;"	m	class:SearchResults
+NavChild	doc/iFlytek MSC Reference Manual/search/search.js	/^    this.NavChild = function(evt,itemIndex,childIndex)$/;"	m	class:SearchResults
+NavNext	doc/iFlytek MSC Reference Manual/search/search.js	/^    this.NavNext = function(index)$/;"	m	class:SearchResults
+NavPrev	doc/iFlytek MSC Reference Manual/search/search.js	/^    this.NavPrev = function(index)$/;"	m	class:SearchResults
+OnSearchFieldChange	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.OnSearchFieldChange = function(evt)$/;"	m	class:SearchBox
+OnSearchFieldFocus	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.OnSearchFieldFocus = function(isActive)$/;"	m	class:SearchBox
+OnSearchSelectHide	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.OnSearchSelectHide = function()$/;"	m	class:SearchBox
+OnSearchSelectKey	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.OnSearchSelectKey = function(evt)$/;"	m	class:SearchBox
+OnSearchSelectShow	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.OnSearchSelectShow = function()$/;"	m	class:SearchBox
+OnSelectItem	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.OnSelectItem = function(id)$/;"	m	class:SearchBox
+ProcessKeys	doc/iFlytek MSC Reference Manual/search/search.js	/^    this.ProcessKeys = function(e)$/;"	m	class:SearchResults
+Search	doc/iFlytek MSC Reference Manual/search/search.js	/^    this.Search = function(search)$/;"	m	class:SearchResults
+Search	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.Search = function()$/;"	m	class:SearchBox
+SearchBox	doc/iFlytek MSC Reference Manual/search/search.js	/^function SearchBox(name, resultsPath, inFrame, label)$/;"	c
+SearchResults	doc/iFlytek MSC Reference Manual/search/search.js	/^function SearchResults(name)$/;"	c
+SelectItemCount	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.SelectItemCount = function(id)$/;"	m	class:SearchBox
+SelectItemSet	doc/iFlytek MSC Reference Manual/search/search.js	/^  this.SelectItemSet = function(id)$/;"	m	class:SearchBox
+Toggle	doc/iFlytek MSC Reference Manual/search/search.js	/^    this.Toggle = function(id)$/;"	m	class:SearchResults
+convertToId	doc/iFlytek MSC Reference Manual/search/search.js	/^function convertToId(search)$/;"	f
+createResults	doc/iFlytek MSC Reference Manual/search/search.js	/^function createResults()$/;"	f
+getXPos	doc/iFlytek MSC Reference Manual/search/search.js	/^function getXPos(item)$/;"	f
+getYPos	doc/iFlytek MSC Reference Manual/search/search.js	/^function getYPos(item)$/;"	f
+init_search	doc/iFlytek MSC Reference Manual/search/search.js	/^function init_search()$/;"	f
+setClassAttr	doc/iFlytek MSC Reference Manual/search/search.js	/^function setClassAttr(elem,attr)$/;"	f
+setKeyActions	doc/iFlytek MSC Reference Manual/search/search.js	/^function setKeyActions(elem,action)$/;"	f
+0	doc/iFlytek MSC Reference Manual/search/searchdata.js	/^  0: "all",$/;"	p	class:indexSectionNames
+0	doc/iFlytek MSC Reference Manual/search/searchdata.js	/^  0: "mq",$/;"	p	class:indexSectionsWithContent
+0	doc/iFlytek MSC Reference Manual/search/searchdata.js	/^  0: "全部",$/;"	p	class:indexSectionLabels
+1	doc/iFlytek MSC Reference Manual/search/searchdata.js	/^  1: "files",$/;"	p	class:indexSectionNames
+1	doc/iFlytek MSC Reference Manual/search/searchdata.js	/^  1: "mq",$/;"	p	class:indexSectionsWithContent
+1	doc/iFlytek MSC Reference Manual/search/searchdata.js	/^  1: "文件",$/;"	p	class:indexSectionLabels
+2	doc/iFlytek MSC Reference Manual/search/searchdata.js	/^  2: "functions"$/;"	p	class:indexSectionNames
+2	doc/iFlytek MSC Reference Manual/search/searchdata.js	/^  2: "mq"$/;"	p	class:indexSectionsWithContent
+2	doc/iFlytek MSC Reference Manual/search/searchdata.js	/^  2: "函数"$/;"	p	class:indexSectionLabels
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+DownloadResultCB	include/msp_cmn.h	/^typedef int (*DownloadResultCB)(const void *data, long dataLen, void *userData);$/;"	t
+DownloadStatusCB	include/msp_cmn.h	/^typedef int (*DownloadStatusCB)(int errorCode, long param1, const void *param2, void *userData);$/;"	t
+NLPSearchCB	include/msp_cmn.h	/^typedef int (*NLPSearchCB)(const char *sessionID, int errorCode, int status, const void* result, long rsltLen, void *userData);$/;"	t
+Proc_MSPAppendData	include/msp_cmn.h	/^typedef int (MSPAPI* Proc_MSPAppendData)(void* data, unsigned int dataLen, unsigned int dataStatus);$/;"	t
+Proc_MSPDownload	include/msp_cmn.h	/^typedef int (MSPAPI* Proc_MSPDownload)(const char* dataName, const char* params, DownloadStatusCB statusCb, DownloadResultCB resultCb, void*userData);$/;"	t
+Proc_MSPDownloadData	include/msp_cmn.h	/^typedef const void* (MSPAPI* Proc_MSPDownloadData)(const char* params, unsigned int* dataLen, int* errorCode);$/;"	t
+Proc_MSPDownloadDataW	include/msp_cmn.h	/^typedef const void* (MSPAPI* Proc_MSPDownloadDataW)(const wchar_t* params, unsigned int* dataLen, int* errorCode);$/;"	t
+Proc_MSPDownloadW	include/msp_cmn.h	/^typedef int (MSPAPI* Proc_MSPDownloadW) (const wchar_t* wdataName, const wchar_t* wparams, DownloadStatusCB statusCb, DownloadResultCB resultCb, void*userData);$/;"	t
+Proc_MSPGetParam	include/msp_cmn.h	/^typedef int (MSPAPI *Proc_MSPGetParam)( const char *paramName, char *paramValue, unsigned int *valueLen );$/;"	t
+Proc_MSPGetResult	include/msp_cmn.h	/^typedef const char * (MSPAPI *Proc_MSPGetResult)(unsigned int* rsltLen, int* rsltStatus, int *errorCode);$/;"	t
+Proc_MSPGetVersion	include/msp_cmn.h	/^typedef const char* (MSPAPI * Proc_MSPGetVersion)(const char *verName, int *errorCode);$/;"	t
+Proc_MSPLogin	include/msp_cmn.h	/^typedef int (MSPAPI *Proc_MSPLogin)(const char* usr, const char* pwd, const char* params);$/;"	t
+Proc_MSPLoginW	include/msp_cmn.h	/^typedef int (MSPAPI *Proc_MSPLoginW)(const wchar_t* usr, const wchar_t* pwd, const wchar_t* params);$/;"	t
+Proc_MSPLogout	include/msp_cmn.h	/^typedef int (MSPAPI *Proc_MSPLogout)();$/;"	t
+Proc_MSPLogoutW	include/msp_cmn.h	/^typedef int (MSPAPI *Proc_MSPLogoutW)();$/;"	t
+Proc_MSPNlpSearch	include/msp_cmn.h	/^typedef const char* (MSPAPI* Proc_MSPNlpSearch)(const char* params, const char* text, unsigned int textLen, int *errorCode, NLPSearchCB callback, void *userData);$/;"	t
+Proc_MSPRegisterNotify	include/msp_cmn.h	/^typedef const char* (MSPAPI* Proc_MSPRegisterNotify)( msp_status_ntf_handler statusCb, void *userData );$/;"	t
+Proc_MSPSearch	include/msp_cmn.h	/^typedef const char* (MSPAPI* Proc_MSPSearch)(const char* params, const char* text, unsigned int* dataLen, int* errorCode);$/;"	t
+Proc_MSPSetParam	include/msp_cmn.h	/^typedef int (MSPAPI *Proc_MSPSetParam)(const char* paramName, const char* paramValue);$/;"	t
+Proc_MSPUpload	include/msp_cmn.h	/^typedef int (MSPAPI* Proc_MSPUpload)( const char* dataName, const char* params, const char* dataID);$/;"	t
+Proc_MSPUploadData	include/msp_cmn.h	/^typedef const char* (MSPAPI* Proc_MSPUploadData)(const char* dataName, void* data, unsigned int dataLen, const char* params, int* errorCode);$/;"	t
+__MSP_CMN_H__	include/msp_cmn.h	29;"	d
+msp_status_ntf_handler	include/msp_cmn.h	/^typedef void ( *msp_status_ntf_handler)( int type, int status, int param1, const void *param2, void *userData );$/;"	t
+MSP_EEROR_IOT_INVALID_ATTR	include/msp_errors.h	/^	MSP_EEROR_IOT_INVALID_ATTR					= 11504,		\/\/ invalid attr value for one product in ProTranServer$/;"	e	enum:__anon6
+MSP_ERROE_OVER_REQ	include/msp_errors.h	/^	MSP_ERROE_OVER_REQ                      = 10135,    \/* 0x2797 *\/   \/* client Redundancy request *\/$/;"	e	enum:__anon6
+MSP_ERROR_ACCESS	include/msp_errors.h	/^	MSP_ERROR_ACCESS						= 10105, 	\/* 0x2779 *\/$/;"	e	enum:__anon6
+MSP_ERROR_AIUI_CID_EXPIRED	include/msp_errors.h	/^	MSP_ERROR_AIUI_CID_EXPIRED				= 11800,$/;"	e	enum:__anon6
+MSP_ERROR_ALREADY_EXIST	include/msp_errors.h	/^	MSP_ERROR_ALREADY_EXIST					= 10121, 	\/* 0x2789 *\/  \/* ���ݿ���ģ���Ѵ��� *\/$/;"	e	enum:__anon6
+MSP_ERROR_ASE_EXCEP_NOTMONO	include/msp_errors.h	/^	MSP_ERROR_ASE_EXCEP_NOTMONO    	            = 11405,           $/;"	e	enum:__anon6
+MSP_ERROR_ASE_EXCEP_OTHERS	include/msp_errors.h	/^	MSP_ERROR_ASE_EXCEP_OTHERS  		        = 11406,              $/;"	e	enum:__anon6
+MSP_ERROR_ASE_EXCEP_PAPERCONTENTS	include/msp_errors.h	/^	MSP_ERROR_ASE_EXCEP_PAPERCONTENTS 	        = 11404,        $/;"	e	enum:__anon6
+MSP_ERROR_ASE_EXCEP_PAPERDATA	include/msp_errors.h	/^	MSP_ERROR_ASE_EXCEP_PAPERDATA  	            = 11403,           $/;"	e	enum:__anon6
+MSP_ERROR_ASE_EXCEP_PAPERFMT	include/msp_errors.h	/^	MSP_ERROR_ASE_EXCEP_PAPERFMT 		        = 11407,             $/;"	e	enum:__anon6
+MSP_ERROR_ASE_EXCEP_SILENCE	include/msp_errors.h	/^	MSP_ERROR_ASE_EXCEP_SILENCE  		        = 11401,             $/;"	e	enum:__anon6
+MSP_ERROR_ASE_EXCEP_SNRATIO	include/msp_errors.h	/^	MSP_ERROR_ASE_EXCEP_SNRATIO  		        = 11402,             $/;"	e	enum:__anon6
+MSP_ERROR_ASE_EXCEP_ULISTWORD	include/msp_errors.h	/^	MSP_ERROR_ASE_EXCEP_ULISTWORD  	            = 11408,$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_APPID_NOT_MATCH	include/msp_errors.h	/^	MSP_ERROR_AUTH_APPID_NOT_MATCH			= 11210,	\/* 0x2BCA *\/   \/* ��Դappid��Ӧ��appid��ƥ�� *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_DVC_EXCEED_LICENSE	include/msp_errors.h	/^	MSP_ERROR_AUTH_DVC_EXCEED_LICENSE			= 11306,				   $/;"	e	enum:__anon6
+MSP_ERROR_AUTH_DVC_INVALID_LICENSE	include/msp_errors.h	/^	MSP_ERROR_AUTH_DVC_INVALID_LICENSE		    = 11302,$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_DVC_LICENSE_EXPIRED	include/msp_errors.h	/^	MSP_ERROR_AUTH_DVC_LICENSE_EXPIRED			= 11303,$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_DVC_LICENSE_TO_BE_EXPIRED	include/msp_errors.h	/^	MSP_ERROR_AUTH_DVC_LICENSE_TO_BE_EXPIRED	= 11305,$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_DVC_NEED_MORE_DATA	include/msp_errors.h	/^	MSP_ERROR_AUTH_DVC_NEED_MORE_DATA           = 11304,$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_DVC_NO_ENOUGH_LICENSE	include/msp_errors.h	/^	MSP_ERROR_AUTH_DVC_NO_ENOUGH_LICENSE		= 11301,$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_DVC_NO_LICENSE	include/msp_errors.h	/^	MSP_ERROR_AUTH_DVC_NO_LICENSE				= 11300,$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_INVALID_LICENSE	include/msp_errors.h	/^	MSP_ERROR_AUTH_INVALID_LICENSE		    = 11202,	\/* 0x2BC2 *\/   \/* ��Ч����Ȩ *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_INVALID_MACHINE_ID	include/msp_errors.h	/^	MSP_ERROR_AUTH_INVALID_MACHINE_ID       = 11206,    \/* 0x2BC6 *\/   \/* ��Ч�Ļ����� *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_LICENSE_EXPIRED	include/msp_errors.h	/^	MSP_ERROR_AUTH_LICENSE_EXPIRED			= 11203,	\/* 0x2BC3 *\/   \/* ��Ȩ���� *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_LICENSE_TO_BE_EXPIRED	include/msp_errors.h	/^	MSP_ERROR_AUTH_LICENSE_TO_BE_EXPIRED	= 11205,	\/* 0x2BC5 *\/   \/* ��Ȩ�������ڣ������Դ����� *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_LOCAL_ASR_FORBIDDEN	include/msp_errors.h	/^	MSP_ERROR_AUTH_LOCAL_ASR_FORBIDDEN 	    = 11207,    \/* 0x2BC7 *\/   \/* ��ֹʹ�ñ���ʶ������ *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_LOCAL_IFD_FORBIDDEN	include/msp_errors.h	/^	MSP_ERROR_AUTH_LOCAL_IFD_FORBIDDEN      = 11213,    \/* 0x2BC9 *\/   \/* ��ֹʹ�ñ����������� *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_LOCAL_IVW_FORBIDDEN	include/msp_errors.h	/^	MSP_ERROR_AUTH_LOCAL_IVW_FORBIDDEN      = 11209,    \/* 0x2BC9 *\/   \/* ��ֹʹ�ñ��ػ������� *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_LOCAL_TTS_FORBIDDEN	include/msp_errors.h	/^	MSP_ERROR_AUTH_LOCAL_TTS_FORBIDDEN      = 11208,    \/* 0x2BC8 *\/   \/* ��ֹʹ�ñ��غϳ����� *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_NEED_MORE_DATA	include/msp_errors.h	/^	MSP_ERROR_AUTH_NEED_MORE_DATA           = 11204,    \/* 0x2BC4 *\/   \/* ���豸��Ϣ *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_NO_ENOUGH_LICENSE	include/msp_errors.h	/^	MSP_ERROR_AUTH_NO_ENOUGH_LICENSE		= 11201,	\/* 0x2BC1 *\/   \/* ��Ȩ���� *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_NO_LICENSE	include/msp_errors.h	/^	MSP_ERROR_AUTH_NO_LICENSE				= 11200,	\/* 0x2BC0 *\/   \/* ����Ȩ *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_TRIAL_EXPIRED	include/msp_errors.h	/^	MSP_ERROR_AUTH_TRIAL_EXPIRED			= 11212,	\/* 0x2BCC *\/   \/* ������Դ���� *\/$/;"	e	enum:__anon6
+MSP_ERROR_AUTH_UID_NOT_MATCH	include/msp_errors.h	/^	MSP_ERROR_AUTH_UID_NOT_MATCH			= 11211,	\/* 0x2BCB *\/   \/* ��Դuid�͵�¼�û�uid��ƥ�� *\/$/;"	e	enum:__anon6
+MSP_ERROR_BIZ_BASE	include/msp_errors.h	/^	MSP_ERROR_BIZ_BASE						 = 17000,	\/* 0x4268 *\/	\/* ����ҵ������� *\/$/;"	e	enum:__anon6
+MSP_ERROR_BOS_TIMEOUT	include/msp_errors.h	/^	MSP_ERROR_BOS_TIMEOUT                   = 10140,    \/* 0x279C *\/   \/* VADǰ�˵㳬ʱ *\/$/;"	e	enum:__anon6
+MSP_ERROR_BUSY	include/msp_errors.h	/^	MSP_ERROR_BUSY							= 10123, 	\/* 0x278B *\/$/;"	e	enum:__anon6
+MSP_ERROR_BUSY_GRMBUILDING	include/msp_errors.h	/^	MSP_ERROR_BUSY_GRMBUILDING              = 10137,    \/* 0x2799 *\/$/;"	e	enum:__anon6
+MSP_ERROR_BUSY_LEXUPDATING	include/msp_errors.h	/^	MSP_ERROR_BUSY_LEXUPDATING              = 10138,    \/* 0x279A *\/$/;"	e	enum:__anon6
+MSP_ERROR_CANCELED	include/msp_errors.h	/^	MSP_ERROR_CANCELED						= 10126, 	\/* 0x278E *\/$/;"	e	enum:__anon6
+MSP_ERROR_CLIENT_AREA_CHANGE	include/msp_errors.h	/^	MSP_ERROR_CLIENT_AREA_CHANGE			= 10220,$/;"	e	enum:__anon6
+MSP_ERROR_CLIENT_CLOSE	include/msp_errors.h	/^	MSP_ERROR_CLIENT_CLOSE                  = 10219,    \/* CLIENT CLOSED CONNECTION *\/$/;"	e	enum:__anon6
+MSP_ERROR_CODING_LIB_NOT_LOAD	include/msp_errors.h	/^	MSP_ERROR_CODING_LIB_NOT_LOAD			= 10130, 	\/* 0x2792 *\/$/;"	e	enum:__anon6
+MSP_ERROR_CONFIG_INITIALIZE	include/msp_errors.h	/^	MSP_ERROR_CONFIG_INITIALIZE				= 10128, 	\/* 0x2790 *\/$/;"	e	enum:__anon6
+MSP_ERROR_CREATE_HANDLE	include/msp_errors.h	/^	MSP_ERROR_CREATE_HANDLE					= 10129, 	\/* 0x2791 *\/$/;"	e	enum:__anon6
+MSP_ERROR_DB_CONNECT	include/msp_errors.h	/^	MSP_ERROR_DB_CONNECT					= 10405, 	\/* 0x28A5 *\/$/;"	e	enum:__anon6
+MSP_ERROR_DB_EXCEPTION	include/msp_errors.h	/^	MSP_ERROR_DB_EXCEPTION					= 10401, 	\/* 0x28A1 *\/$/;"	e	enum:__anon6
+MSP_ERROR_DB_GENERAL	include/msp_errors.h	/^	MSP_ERROR_DB_GENERAL					= 10400, 	\/* 0x28A0 *\/   \/* ���ݿ��쳣 *\/$/;"	e	enum:__anon6
+MSP_ERROR_DB_INVALID_APPID	include/msp_errors.h	/^	MSP_ERROR_DB_INVALID_APPID				= 10407,	\/* 0x28A7 *\/$/;"	e	enum:__anon6
+MSP_ERROR_DB_INVALID_PWD	include/msp_errors.h	/^	MSP_ERROR_DB_INVALID_PWD				= 10404, 	\/* 0x28A4 *\/$/;"	e	enum:__anon6
+MSP_ERROR_DB_INVALID_SQL	include/msp_errors.h	/^	MSP_ERROR_DB_INVALID_SQL				= 10406, 	\/* 0x28A6 *\/$/;"	e	enum:__anon6
+MSP_ERROR_DB_INVALID_USER	include/msp_errors.h	/^	MSP_ERROR_DB_INVALID_USER				= 10403, 	\/* 0x28A3 *\/$/;"	e	enum:__anon6
+MSP_ERROR_DB_NO_RESULT	include/msp_errors.h	/^	MSP_ERROR_DB_NO_RESULT					= 10402, 	\/* 0x28A2 *\/   \/* redis��û���ҵ��ỰID(sid) *\/$/;"	e	enum:__anon6
+MSP_ERROR_DB_NO_UID	include/msp_errors.h	/^	MSP_ERROR_DB_NO_UID						= 10408,$/;"	e	enum:__anon6
+MSP_ERROR_EP_GENERAL	include/msp_errors.h	/^	MSP_ERROR_EP_GENERAL					= 10800, 	\/* 0x2A30 *\/$/;"	e	enum:__anon6
+MSP_ERROR_EP_INACTIVE	include/msp_errors.h	/^	MSP_ERROR_EP_INACTIVE                   = 10802, 	\/* 0x2A32 *\/$/;"	e	enum:__anon6
+MSP_ERROR_EP_INITIALIZED	include/msp_errors.h	/^	MSP_ERROR_EP_INITIALIZED                = 10803, 	\/* 0x2A33 *\/$/;"	e	enum:__anon6
+MSP_ERROR_EP_NO_SESSION_NAME	include/msp_errors.h	/^	MSP_ERROR_EP_NO_SESSION_NAME            = 10801, 	\/* 0x2A31 *\/$/;"	e	enum:__anon6
+MSP_ERROR_EXCEPTION	include/msp_errors.h	/^	MSP_ERROR_EXCEPTION						= -2,$/;"	e	enum:__anon6
+MSP_ERROR_FACE_IMAGE_FULL_LEFT	include/msp_errors.h	/^	MSP_ERROR_FACE_IMAGE_FULL_LEFT			= 11701,			\/\/	���������󣬶�Ӧ�������������20201��$/;"	e	enum:__anon6
+MSP_ERROR_FACE_IMAGE_FULL_RIGHT	include/msp_errors.h	/^	MSP_ERROR_FACE_IMAGE_FULL_RIGHT			= 11702,			\/\/	���������ң���Ӧ�������������20202��$/;"	e	enum:__anon6
+MSP_ERROR_FACE_INVALID_MODEL	include/msp_errors.h	/^	MSP_ERROR_FACE_INVALID_MODEL			= 11708,			\/\/	���Ƿ�ģ�����ݣ���Ӧ�������������20208��$/;"	e	enum:__anon6
+MSP_ERROR_FACE_OCCULTATION	include/msp_errors.h	/^	MSP_ERROR_FACE_OCCULTATION				= 11707,		    \/\/	���������ڵ�����Ӧ�������������20207��$/;"	e	enum:__anon6
+MSP_ERROR_FAIL	include/msp_errors.h	/^	MSP_ERROR_FAIL							= -1,$/;"	e	enum:__anon6
+MSP_ERROR_FILE_NOT_FOUND	include/msp_errors.h	/^	MSP_ERROR_FILE_NOT_FOUND				= 10102, 	\/* 0x2776 *\/$/;"	e	enum:__anon6
+MSP_ERROR_FLASH_NETWORK_CHECK_FIALED	include/msp_errors.h	/^	MSP_ERROR_FLASH_NETWORK_CHECK_FIALED     = 19001,					\/*flash�������Ӧ���쳣��Ϣ*\/$/;"	e	enum:__anon6
+MSP_ERROR_FLASH_NETWORK_CHECK_TIMEOUT	include/msp_errors.h	/^	MSP_ERROR_FLASH_NETWORK_CHECK_TIMEOUT    = 19002,				    \/*flash��������糬ʱ*\/$/;"	e	enum:__anon6
+MSP_ERROR_FLASH_NETWORK_CLOSED_EXCEPTION	include/msp_errors.h	/^	MSP_ERROR_FLASH_NETWORK_CLOSED_EXCEPTION = 19003,                   \/*flash����������쳣�ر�*\/$/;"	e	enum:__anon6
+MSP_ERROR_FLASH_NETWORK_CONNECT_FIALED	include/msp_errors.h	/^	MSP_ERROR_FLASH_NETWORK_CONNECT_FIALED   = 19000,					\/*flash�������������ʧ��*\/$/;"	e	enum:__anon6
+MSP_ERROR_FUSION_ENOUGH_DATA	include/msp_errors.h	/^	MSP_ERROR_FUSION_ENOUGH_DATA			= 11711,			\/\/	����������ݹ��࣬��Ӧ�������������20302��$/;"	e	enum:__anon6
+MSP_ERROR_FUSION_INVALID_INPUT_TYPE	include/msp_errors.h	/^	MSP_ERROR_FUSION_INVALID_INPUT_TYPE		= 11709,			\/\/	�������������ͷǷ�����Ӧ�������������20300��$/;"	e	enum:__anon6
+MSP_ERROR_FUSION_NO_ENOUGH_DATA	include/msp_errors.h	/^	MSP_ERROR_FUSION_NO_ENOUGH_DATA			= 11710,			\/\/	����������ݲ���������Ӧ�������������20301��$/;"	e	enum:__anon6
+MSP_ERROR_GENERAL	include/msp_errors.h	/^	MSP_ERROR_GENERAL						= 10100, 	\/* 0x2774 *\/$/;"	e	enum:__anon6
+MSP_ERROR_HCR_APPEND_STROKES	include/msp_errors.h	/^	MSP_ERROR_HCR_APPEND_STROKES			= 11105,$/;"	e	enum:__anon6
+MSP_ERROR_HCR_CREATE	include/msp_errors.h	/^	MSP_ERROR_HCR_CREATE					= 11102,$/;"	e	enum:__anon6
+MSP_ERROR_HCR_DESTROY	include/msp_errors.h	/^	MSP_ERROR_HCR_DESTROY					= 11103,$/;"	e	enum:__anon6
+MSP_ERROR_HCR_DISPATCH	include/msp_errors.h	/^	MSP_ERROR_HCR_DISPATCH                  = 11108,$/;"	e	enum:__anon6
+MSP_ERROR_HCR_GENERAL	include/msp_errors.h	/^	MSP_ERROR_HCR_GENERAL					= 11100,$/;"	e	enum:__anon6
+MSP_ERROR_HCR_GETRESULT	include/msp_errors.h	/^	MSP_ERROR_HCR_GETRESULT                 = 11109,$/;"	e	enum:__anon6
+MSP_ERROR_HCR_INIT	include/msp_errors.h	/^	MSP_ERROR_HCR_INIT                      = 11106,$/;"	e	enum:__anon6
+MSP_ERROR_HCR_POINT_DECODE	include/msp_errors.h	/^	MSP_ERROR_HCR_POINT_DECODE              = 11107,$/;"	e	enum:__anon6
+MSP_ERROR_HCR_RESOURCE	include/msp_errors.h	/^	MSP_ERROR_HCR_RESOURCE		            = 11110,$/;"	e	enum:__anon6
+MSP_ERROR_HCR_RESOURCE_NOT_EXIST	include/msp_errors.h	/^	MSP_ERROR_HCR_RESOURCE_NOT_EXIST		= 11101,$/;"	e	enum:__anon6
+MSP_ERROR_HCR_START	include/msp_errors.h	/^	MSP_ERROR_HCR_START						= 11104,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_400	include/msp_errors.h	/^	MSP_ERROR_HTTP_400						= 12400,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_401	include/msp_errors.h	/^	MSP_ERROR_HTTP_401						= 12401,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_402	include/msp_errors.h	/^	MSP_ERROR_HTTP_402						= 12402,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_403	include/msp_errors.h	/^	MSP_ERROR_HTTP_403						= 12403,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_404	include/msp_errors.h	/^	MSP_ERROR_HTTP_404						= 12404,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_405	include/msp_errors.h	/^	MSP_ERROR_HTTP_405						= 12405,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_406	include/msp_errors.h	/^	MSP_ERROR_HTTP_406						= 12406,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_407	include/msp_errors.h	/^	MSP_ERROR_HTTP_407						= 12407,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_408	include/msp_errors.h	/^	MSP_ERROR_HTTP_408						= 12408,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_409	include/msp_errors.h	/^	MSP_ERROR_HTTP_409						= 12409,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_410	include/msp_errors.h	/^	MSP_ERROR_HTTP_410						= 12410,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_411	include/msp_errors.h	/^	MSP_ERROR_HTTP_411						= 12411,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_412	include/msp_errors.h	/^	MSP_ERROR_HTTP_412						= 12412,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_413	include/msp_errors.h	/^	MSP_ERROR_HTTP_413						= 12413,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_414	include/msp_errors.h	/^	MSP_ERROR_HTTP_414						= 12414,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_415	include/msp_errors.h	/^	MSP_ERROR_HTTP_415						= 12415,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_416	include/msp_errors.h	/^	MSP_ERROR_HTTP_416						= 12416,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_417	include/msp_errors.h	/^	MSP_ERROR_HTTP_417						= 12417,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_500	include/msp_errors.h	/^	MSP_ERROR_HTTP_500						= 12500,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_501	include/msp_errors.h	/^	MSP_ERROR_HTTP_501						= 12501,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_502	include/msp_errors.h	/^	MSP_ERROR_HTTP_502						= 12502,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_503	include/msp_errors.h	/^	MSP_ERROR_HTTP_503						= 12503,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_504	include/msp_errors.h	/^	MSP_ERROR_HTTP_504						= 12504,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_505	include/msp_errors.h	/^	MSP_ERROR_HTTP_505						= 12505,$/;"	e	enum:__anon6
+MSP_ERROR_HTTP_BASE	include/msp_errors.h	/^	MSP_ERROR_HTTP_BASE						= 12000,	\/* 0x2EE0 *\/$/;"	e	enum:__anon6
+MSP_ERROR_IFR_NOT_FACE_IMAGE	include/msp_errors.h	/^	MSP_ERROR_IFR_NOT_FACE_IMAGE			= 11700,			\/\/	������������Ӧ�������������20200 ��      $/;"	e	enum:__anon6
+MSP_ERROR_ILLUMINATION	include/msp_errors.h	/^	MSP_ERROR_ILLUMINATION					= 11706,			\/\/	�������쳣����Ӧ�������������20206��$/;"	e	enum:__anon6
+MSP_ERROR_IMAGE_CLOCKWISE_WHIRL	include/msp_errors.h	/^	MSP_ERROR_IMAGE_CLOCKWISE_WHIRL			= 11703,			\/\/	��˳ʱ����ת����Ӧ�������������20203��$/;"	e	enum:__anon6
+MSP_ERROR_IMAGE_COUNTET_CLOCKWISE_WHIRL	include/msp_errors.h	/^	MSP_ERROR_IMAGE_COUNTET_CLOCKWISE_WHIRL	= 11704,			\/\/	����ʱ����ת����Ӧ�������������20204��$/;"	e	enum:__anon6
+MSP_ERROR_INVALID_CONFIG	include/msp_errors.h	/^	MSP_ERROR_INVALID_CONFIG				= 10124, 	\/* 0x278C *\/$/;"	e	enum:__anon6
+MSP_ERROR_INVALID_DATA	include/msp_errors.h	/^	MSP_ERROR_INVALID_DATA					= 10109, 	\/* 0x277D *\/$/;"	e	enum:__anon6
+MSP_ERROR_INVALID_HANDLE	include/msp_errors.h	/^	MSP_ERROR_INVALID_HANDLE				= 10108, 	\/* 0x277C *\/$/;"	e	enum:__anon6
+MSP_ERROR_INVALID_MEDIA_TYPE	include/msp_errors.h	/^	MSP_ERROR_INVALID_MEDIA_TYPE			= 10127, 	\/* 0x278F *\/$/;"	e	enum:__anon6
+MSP_ERROR_INVALID_OPERATION	include/msp_errors.h	/^	MSP_ERROR_INVALID_OPERATION				= 10132, 	\/* 0x2794 *\/$/;"	e	enum:__anon6
+MSP_ERROR_INVALID_PARA	include/msp_errors.h	/^	MSP_ERROR_INVALID_PARA					= 10106, 	\/* 0x277A *\/  \/* ȱ�ٲ��� *\/$/;"	e	enum:__anon6
+MSP_ERROR_INVALID_PARA_VALUE	include/msp_errors.h	/^	MSP_ERROR_INVALID_PARA_VALUE			= 10107, 	\/* 0x277B *\/  \/* ��Ч����ֵ *\/$/;"	e	enum:__anon6
+MSP_ERROR_IOT_BASE	include/msp_errors.h	/^	MSP_ERROR_IOT_BASE							= 11500,$/;"	e	enum:__anon6
+MSP_ERROR_IOT_DID_NOT_FOUND	include/msp_errors.h	/^	MSP_ERROR_IOT_DID_NOT_FOUND					= 11506,		\/\/ not found device id in semantic$/;"	e	enum:__anon6
+MSP_ERROR_IOT_INVALID_PLATFORM	include/msp_errors.h	/^	MSP_ERROR_IOT_INVALID_PLATFORM				= 11505,		\/\/ invalid platform for ProTranServer$/;"	e	enum:__anon6
+MSP_ERROR_IOT_INVALID_PRODUCTID	include/msp_errors.h	/^	MSP_ERROR_IOT_INVALID_PRODUCTID				= 11503,		\/\/ invalid productid for ProTranServer$/;"	e	enum:__anon6
+MSP_ERROR_IOT_INVALID_SERVICE	include/msp_errors.h	/^	MSP_ERROR_IOT_INVALID_SERVICE				= 11502,		\/\/ invalid service for iot ProTranServer$/;"	e	enum:__anon6
+MSP_ERROR_IOT_PARAM_ERROR	include/msp_errors.h	/^	MSP_ERROR_IOT_PARAM_ERROR					= 11501,		\/\/ param error$/;"	e	enum:__anon6
+MSP_ERROR_ISV_NO_USER	include/msp_errors.h	/^	MSP_ERROR_ISV_NO_USER                   = 13000,	\/* 32C8 *\/    \/* the user doesn't exist *\/$/;"	e	enum:__anon6
+MSP_ERROR_IVP_EXTRA_RGN_SOPPORT	include/msp_errors.h	/^    MSP_ERROR_IVP_EXTRA_RGN_SOPPORT         = 11601,            \/\/  ע��ʱ��������д��Ƶ������������(9��)$/;"	e	enum:__anon6
+MSP_ERROR_IVP_GENERAL	include/msp_errors.h	/^    MSP_ERROR_IVP_GENERAL                   = 11600,            \/\/  �ں��쳣$/;"	e	enum:__anon6
+MSP_ERROR_IVP_MODEL_NOT_FOUND_IN_HBASE	include/msp_errors.h	/^    MSP_ERROR_IVP_MODEL_NOT_FOUND_IN_HBASE  = 11610,            \/\/  ģ����hbase��û�ҵ�$/;"	e	enum:__anon6
+MSP_ERROR_IVP_MUCH_NOISE	include/msp_errors.h	/^    MSP_ERROR_IVP_MUCH_NOISE                = 11603,            \/\/  ��Ƶ����ȹ���$/;"	e	enum:__anon6
+MSP_ERROR_IVP_NO_ENOUGH_AUDIO	include/msp_errors.h	/^    MSP_ERROR_IVP_NO_ENOUGH_AUDIO           = 11608,            \/\/  ��Ƶ������ע������˵����д�����Ƶ�ֲ�����ʱ�ᱨ�����ߵ����߼�������Ƶ$/;"	e	enum:__anon6
+MSP_ERROR_IVP_TEXT_NOT_MATCH	include/msp_errors.h	/^    MSP_ERROR_IVP_TEXT_NOT_MATCH            = 11607,            \/\/  1.��Ƶ���ı���ƥ�䣬����ԭ��1.����(�ڰ���¼����֮ǰ��)$/;"	e	enum:__anon6
+MSP_ERROR_IVP_TOO_LOW	include/msp_errors.h	/^    MSP_ERROR_IVP_TOO_LOW                   = 11604,            \/\/  ��Ƶ��������$/;"	e	enum:__anon6
+MSP_ERROR_IVP_TRUNCATED	include/msp_errors.h	/^    MSP_ERROR_IVP_TRUNCATED                 = 11602,            \/\/  ��Ƶ�ط�(���źŲ��εķ���̫�󣬶�����ϵͳ�����Է�Χ)�����¼���������Ƶ$/;"	e	enum:__anon6
+MSP_ERROR_IVP_UTTER_TOO_SHORT	include/msp_errors.h	/^    MSP_ERROR_IVP_UTTER_TOO_SHORT           = 11606,            \/\/  ��Ƶ̫��$/;"	e	enum:__anon6
+MSP_ERROR_IVP_ZERO_AUDIO	include/msp_errors.h	/^    MSP_ERROR_IVP_ZERO_AUDIO                = 11605,            \/\/  ����Ƶ$/;"	e	enum:__anon6
+MSP_ERROR_LMOD_ALREADY_LOADED	include/msp_errors.h	/^	MSP_ERROR_LMOD_ALREADY_LOADED			= 16006,	\/* 0x3E86 *\/	\/* lmod�ظ����� *\/$/;"	e	enum:__anon6
+MSP_ERROR_LMOD_BASE	include/msp_errors.h	/^	MSP_ERROR_LMOD_BASE						= 16000,	\/* 0x3E80 *\/$/;"	e	enum:__anon6
+MSP_ERROR_LMOD_LOADCODE	include/msp_errors.h	/^	MSP_ERROR_LMOD_LOADCODE					= 16003,	\/* 0x3E83 *\/	\/* ����lmodָ��ʧ�� *\/$/;"	e	enum:__anon6
+MSP_ERROR_LMOD_NOT_FOUND	include/msp_errors.h	/^	MSP_ERROR_LMOD_NOT_FOUND				= 16001,	\/* 0x3E81 *\/	\/* û�ҵ�lmod�ļ� *\/$/;"	e	enum:__anon6
+MSP_ERROR_LMOD_PRECALL	include/msp_errors.h	/^	MSP_ERROR_LMOD_PRECALL					= 16004,	\/* 0x3E84 *\/	\/* ��ʼ��lmodʧ�� *\/$/;"	e	enum:__anon6
+MSP_ERROR_LMOD_RUNTIME_EXCEPTION	include/msp_errors.h	/^	MSP_ERROR_LMOD_RUNTIME_EXCEPTION		= 16005,	\/* 0x3E85 *\/	\/* lmod����ʱ�쳣 *\/$/;"	e	enum:__anon6
+MSP_ERROR_LMOD_UNEXPECTED_BIN	include/msp_errors.h	/^	MSP_ERROR_LMOD_UNEXPECTED_BIN			= 16002,	\/* 0x3E82 *\/	\/* ��Ч��lmod *\/$/;"	e	enum:__anon6
+MSP_ERROR_LOAD_MODULE	include/msp_errors.h	/^	MSP_ERROR_LOAD_MODULE					= 10122, 	\/* 0x278A *\/$/;"	e	enum:__anon6
+MSP_ERROR_LOGIN_INVALID_PWD	include/msp_errors.h	/^	MSP_ERROR_LOGIN_INVALID_PWD		  		= 11006, 	\/* 0x2AFE *\/   \/* �û�������Ч *\/$/;"	e	enum:__anon6
+MSP_ERROR_LOGIN_INVALID_USER	include/msp_errors.h	/^	MSP_ERROR_LOGIN_INVALID_USER	  		= 11005, 	\/* 0x2AFD *\/   \/* �û�ID��Ч *\/$/;"	e	enum:__anon6
+MSP_ERROR_LOGIN_NO_LICENSE	include/msp_errors.h	/^	MSP_ERROR_LOGIN_NO_LICENSE        	    = 11001, 	\/* 0x2AF9 *\/   \/* ���ô����������û���Ҫ���� *\/$/;"	e	enum:__anon6
+MSP_ERROR_LOGIN_SESSIONID_ERROR	include/msp_errors.h	/^	MSP_ERROR_LOGIN_SESSIONID_ERROR			= 11003, 	\/* 0x2AFB *\/   \/* SessionIdΪ�գ����߷Ƿ� *\/$/;"	e	enum:__anon6
+MSP_ERROR_LOGIN_SESSIONID_INVALID	include/msp_errors.h	/^	MSP_ERROR_LOGIN_SESSIONID_INVALID		= 11002, 	\/* 0x2AFA *\/   \/* SessionIdʧЧ����Ҫ���µ�¼ͨ��֤ *\/ $/;"	e	enum:__anon6
+MSP_ERROR_LOGIN_SUCCESS	include/msp_errors.h	/^	MSP_ERROR_LOGIN_SUCCESS					= 11000, 	\/* 0x2AF8 *\/   \/* �ɹ� *\/$/;"	e	enum:__anon6
+MSP_ERROR_LOGIN_SYSTEM_ERROR	include/msp_errors.h	/^	MSP_ERROR_LOGIN_SYSTEM_ERROR            = 11099, 	\/* 0x2B5B *\/   \/* ϵͳ���� *\/$/;"	e	enum:__anon6
+MSP_ERROR_LOGIN_UNLOGIN	include/msp_errors.h	/^	MSP_ERROR_LOGIN_UNLOGIN		  			= 11004, 	\/* 0x2AFC *\/   \/* δ��¼ͨ��֤ *\/$/;"	e	enum:__anon6
+MSP_ERROR_LUA_BASE	include/msp_errors.h	/^	MSP_ERROR_LUA_BASE						= 14000,    \/* 0x36B0 *\/$/;"	e	enum:__anon6
+MSP_ERROR_LUA_ERRERR	include/msp_errors.h	/^	MSP_ERROR_LUA_ERRERR					= 14005,	\/* 0x36B5 *\/$/;"	e	enum:__anon6
+MSP_ERROR_LUA_ERRMEM	include/msp_errors.h	/^	MSP_ERROR_LUA_ERRMEM					= 14004,	\/* 0x36B4 *\/$/;"	e	enum:__anon6
+MSP_ERROR_LUA_ERRRUN	include/msp_errors.h	/^	MSP_ERROR_LUA_ERRRUN					= 14002,	\/* 0x36B2 *\/$/;"	e	enum:__anon6
+MSP_ERROR_LUA_ERRSYNTAX	include/msp_errors.h	/^	MSP_ERROR_LUA_ERRSYNTAX					= 14003,	\/* 0x36B3 *\/$/;"	e	enum:__anon6
+MSP_ERROR_LUA_INVALID_PARAM	include/msp_errors.h	/^	MSP_ERROR_LUA_INVALID_PARAM				= 14006,	\/* 0x36B6 *\/$/;"	e	enum:__anon6
+MSP_ERROR_LUA_YIELD	include/msp_errors.h	/^	MSP_ERROR_LUA_YIELD						= 14001,	\/* 0x36B1 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MESSAGE_NOT_COMPLETE	include/msp_errors.h	/^	MSP_ERROR_MESSAGE_NOT_COMPLETE			= 10133,	\/* 0x2795 *\/   \/* flash *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_ALARM_CONTXT_NULL	include/msp_errors.h	/^	MSP_ERROR_MMP_ALARM_CONTXT_NULL			= 15029,	\/* Ox3AB5 *\/	\/* �����������ı�������Ϊ�� *\/	$/;"	e	enum:__anon6
+MSP_ERROR_MMP_ALARM_GROUP_NULL	include/msp_errors.h	/^	MSP_ERROR_MMP_ALARM_GROUP_NULL			= 15028,	\/* Ox3AB4 *\/	\/* �����������Ķ��ű��������ʼ��������Ϊ�� *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_BASE	include/msp_errors.h	/^	MSP_ERROR_MMP_BASE						= 15000,    \/* 0x3A98 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_DB_DATA_ILLEGAL	include/msp_errors.h	/^	MSP_ERROR_MMP_DB_DATA_ILLEGAL			= 15023,	\/* 0x3AAF *\/	\/* �������ݿ��е����ݸ�ʽ���� *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_ERR_MORE_TOTAL	include/msp_errors.h	/^	MSP_ERROR_MMP_ERR_MORE_TOTAL			= 15017,	\/* 0x3AA9 *\/	\/* pms�������ݿ��д�����ܱ������ݣ�������� > �ܴ�����*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_MAIL_INIT_FAIL	include/msp_errors.h	/^	MSP_ERROR_MMP_MAIL_INIT_FAIL			= 15011,	\/* 0x3AA3 *\/	\/* �ʼ���ʼ������*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_MAIL_LOGON_FAIL	include/msp_errors.h	/^	MSP_ERROR_MMP_MAIL_LOGON_FAIL			= 15007,	\/* 0x3A9F *\/	\/* �ʼ���½������ʱ���ܾ���½��*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_MAIL_PWD_ERR	include/msp_errors.h	/^	MSP_ERROR_MMP_MAIL_PWD_ERR				= 15009,	\/* 0x3AA1 *\/	\/* �ʼ���½������ʱ���������*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_MAIL_SESSION_FAIL	include/msp_errors.h	/^	MSP_ERROR_MMP_MAIL_SESSION_FAIL			= 15006,	\/* 0x3A9E *\/	\/* �ʼ���½������ʱ���Ự����*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_MAIL_SOCKET_ERR	include/msp_errors.h	/^	MSP_ERROR_MMP_MAIL_SOCKET_ERR			= 15010,	\/* 0x3AA2 *\/	\/* �ʼ����͹������׽��ִ���*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_MAIL_USER_ILLEGAL	include/msp_errors.h	/^	MSP_ERROR_MMP_MAIL_USER_ILLEGAL			= 15008,	\/* 0x3AA0 *\/	\/* �ʼ���½������ʱ���û����Ƿ���*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_MYSQL_INITFAIL	include/msp_errors.h	/^	MSP_ERROR_MMP_MYSQL_INITFAIL			= 15001,	\/* 0x3A99 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_NETDSS_INITFAIL	include/msp_errors.h	/^	MSP_ERROR_MMP_NETDSS_INITFAIL			= 15003,	\/* 0x3A9B *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_PARAM_NULL	include/msp_errors.h	/^	MSP_ERROR_MMP_PARAM_NULL				= 15016,	\/* 0x3AA8 *\/	\/* ��������Ϊ��*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_PMA_NOT_FOUND_STRATEGY	include/msp_errors.h	/^	MSP_ERROR_MMP_PMA_NOT_FOUND_STRATEGY	= 15025,	\/* 0x3AB1 *\/	\/* û���ҵ��������� *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_PMC_SERVINFO_INVALID	include/msp_errors.h	/^	MSP_ERROR_MMP_PMC_SERVINFO_INVALID		= 15027,	\/* Ox3AB3 *\/	\/* ��pmc�ķ�������Ϣ�Ѿ���Ч *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_PROC_THRESHOLD	include/msp_errors.h	/^	MSP_ERROR_MMP_PROC_THRESHOLD			= 15018,	\/* 0x3AAA *\/	\/* ���̼�ط�ֵ���ô���*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_PYTHON_BAD_FUNC	include/msp_errors.h	/^	MSP_ERROR_MMP_PYTHON_BAD_FUNC			= 15022,	\/* 0x3AAE *\/	\/* python�ű�������ʽ���� *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_PYTHON_IMPORT_FAILED	include/msp_errors.h	/^	MSP_ERROR_MMP_PYTHON_IMPORT_FAILED		= 15021,	\/* 0x3AAD *\/	\/* python�ű�������� *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_PYTHON_NO_EXIST	include/msp_errors.h	/^	MSP_ERROR_MMP_PYTHON_NO_EXIST			= 15020,    \/* 0x3AAC *\/	\/* python�ű��ļ������� *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_REDIS_INITFAIL	include/msp_errors.h	/^	MSP_ERROR_MMP_REDIS_INITFAIL			= 15002,	\/* 0x3A9A *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_REDIS_NOT_CONN	include/msp_errors.h	/^	MSP_ERROR_MMP_REDIS_NOT_CONN			= 15024,	\/* 0x3AB0 *\/	\/* redisû�����ӵ������ *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_SERVER_THRESHOLD	include/msp_errors.h	/^	MSP_ERROR_MMP_SERVER_THRESHOLD			= 15019,	\/* 0x3AAB *\/	\/* ��������ط�ֵ���ô���*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_STORE_MNR_NO_INIT	include/msp_errors.h	/^	MSP_ERROR_MMP_STORE_MNR_NO_INIT			= 15012,	\/* 0x3AA4 *\/	\/* store_managerδ��ʼ�������ʼ��ʧ��*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_STORE_MNR_POOL_FULL	include/msp_errors.h	/^	MSP_ERROR_MMP_STORE_MNR_POOL_FULL		= 15013,	\/* 0x3AA5 *\/	\/* store_manager�����ӳ�����*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_STRATGY_PARAM_ILLEGAL	include/msp_errors.h	/^	MSP_ERROR_MMP_STRATGY_PARAM_ILLEGAL		= 15014,	\/* 0x3AA6 *\/	\/* �������Ա���ʽ�Ƿ�*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_STRATGY_PARAM_TOOLOOG	include/msp_errors.h	/^	MSP_ERROR_MMP_STRATGY_PARAM_TOOLOOG		= 15015,	\/* 0x3AA7 *\/	\/* �������Ա���ʽ̫��*\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_TAIR_CONNECT	include/msp_errors.h	/^	MSP_ERROR_MMP_TAIR_CONNECT				= 15026,	\/* 0x3AB2 *\/	\/* ����tair��Ⱥʧ�� *\/$/;"	e	enum:__anon6
+MSP_ERROR_MMP_TAIR_INITFAIL	include/msp_errors.h	/^	MSP_ERROR_MMP_TAIR_INITFAIL				= 15004,	\/* 0x3A9C *\/	$/;"	e	enum:__anon6
+MSP_ERROR_MSG_APP_ID_EMPTY	include/msp_errors.h	/^	MSP_ERROR_MSG_APP_ID_EMPTY				= 10313, 	\/* 0x2849 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_BUILD_ERROR	include/msp_errors.h	/^	MSP_ERROR_MSG_BUILD_ERROR				= 10302, 	\/* 0x283E *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_CONTENT_EMPTY	include/msp_errors.h	/^	MSP_ERROR_MSG_CONTENT_EMPTY				= 10304, 	\/* 0x2840 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_EXTERN_ID_EMPTY	include/msp_errors.h	/^	MSP_ERROR_MSG_EXTERN_ID_EMPTY			= 10314, 	\/* 0x284A *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_GENERAL	include/msp_errors.h	/^	MSP_ERROR_MSG_GENERAL					= 10300, 	\/* 0x283C *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_INVALID_CMD	include/msp_errors.h	/^	MSP_ERROR_MSG_INVALID_CMD				= 10315, 	\/* 0x284B *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_INVALID_CONTENT	include/msp_errors.h	/^	MSP_ERROR_MSG_INVALID_CONTENT			= 10325, 	\/* 0x2855 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_INVALID_CONTENT_ENCODE	include/msp_errors.h	/^	MSP_ERROR_MSG_INVALID_CONTENT_ENCODE	= 10307, 	\/* 0x2843 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_INVALID_CONTENT_LENGTH	include/msp_errors.h	/^	MSP_ERROR_MSG_INVALID_CONTENT_LENGTH	= 10306, 	\/* 0x2842 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_INVALID_CONTENT_TYPE	include/msp_errors.h	/^	MSP_ERROR_MSG_INVALID_CONTENT_TYPE		= 10305, 	\/* 0x2841 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_INVALID_KEY	include/msp_errors.h	/^	MSP_ERROR_MSG_INVALID_KEY				= 10308, 	\/* 0x2844 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_INVALID_SESSION_ID	include/msp_errors.h	/^	MSP_ERROR_MSG_INVALID_SESSION_ID		= 10324, 	\/* 0x2854 *\/   \/* ��Ч�ĻỰID(sid) *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_INVALID_SUBJECT	include/msp_errors.h	/^	MSP_ERROR_MSG_INVALID_SUBJECT			= 10316, 	\/* 0x284C *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_INVALID_VERSION	include/msp_errors.h	/^	MSP_ERROR_MSG_INVALID_VERSION			= 10317, 	\/* 0x284D *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_KEY_EMPTY	include/msp_errors.h	/^	MSP_ERROR_MSG_KEY_EMPTY					= 10309, 	\/* 0x2845 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_LOGIN_ID_EMPTY	include/msp_errors.h	/^	MSP_ERROR_MSG_LOGIN_ID_EMPTY			= 10311, 	\/* 0x2847 *\/   \/* ��Ƶ����IDΪ�� *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_MSSP_EMPTY	include/msp_errors.h	/^	MSP_ERROR_MSG_MSSP_EMPTY				= 10321, 	\/* 0x2851 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_NEW_CONTENT	include/msp_errors.h	/^	MSP_ERROR_MSG_NEW_CONTENT				= 10323, 	\/* 0x2853 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_NEW_RESPONSE	include/msp_errors.h	/^	MSP_ERROR_MSG_NEW_RESPONSE				= 10322, 	\/* 0x2852 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_NO_CMD	include/msp_errors.h	/^	MSP_ERROR_MSG_NO_CMD					= 10318, 	\/* 0x284E *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_NO_SUBJECT	include/msp_errors.h	/^	MSP_ERROR_MSG_NO_SUBJECT				= 10319, 	\/* 0x284F *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_NO_VERSION	include/msp_errors.h	/^	MSP_ERROR_MSG_NO_VERSION				= 10320, 	\/* 0x2850 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_PARAM_ERROR	include/msp_errors.h	/^	MSP_ERROR_MSG_PARAM_ERROR				= 10303, 	\/* 0x283F *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_PARSE_ERROR	include/msp_errors.h	/^	MSP_ERROR_MSG_PARSE_ERROR				= 10301, 	\/* 0x283D *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_SESSION_ID_EMPTY	include/msp_errors.h	/^	MSP_ERROR_MSG_SESSION_ID_EMPTY			= 10310, 	\/* 0x2846 *\/   \/* �ỰIDΪ�� *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSG_SYNC_ID_EMPTY	include/msp_errors.h	/^	MSP_ERROR_MSG_SYNC_ID_EMPTY				= 10312, 	\/* 0x2848 *\/$/;"	e	enum:__anon6
+MSP_ERROR_MSS_TIME_OUT	include/msp_errors.h	/^	MSP_ERROR_MSS_TIME_OUT                  = 10217,    \/* MSS TIMEOUT *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_ACCEPTSOCK	include/msp_errors.h	/^	MSP_ERROR_NET_ACCEPTSOCK       			= 10203, 	\/* 0x27DB *\/   \/* Accept socket *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_BADADDRESS	include/msp_errors.h	/^	MSP_ERROR_NET_BADADDRESS       			= 10207, 	\/* 0x27EF *\/   \/* Bad network address *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_BINDSEQUENCE	include/msp_errors.h	/^	MSP_ERROR_NET_BINDSEQUENCE     			= 10208, 	\/* 0x27E0 *\/   \/* Bind after listen\/connect *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_CERT_VERIFY_FAILED	include/msp_errors.h	/^	MSP_ERROR_NET_CERT_VERIFY_FAILED		= 10226,$/;"	e	enum:__anon6
+MSP_ERROR_NET_CONNECTCLOSE	include/msp_errors.h	/^	MSP_ERROR_NET_CONNECTCLOSE     			= 10212, 	\/* 0x27E4 *\/   \/* The other side of connection is closed *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_CONNECTSOCK	include/msp_errors.h	/^	MSP_ERROR_NET_CONNECTSOCK      			= 10202, 	\/* 0x27DA *\/   \/* Connect socket *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_DNS	include/msp_errors.h	/^	MSP_ERROR_NET_DNS     					= 10214, 	\/* 0x27E6 *\/   \/* domain name is invalid or dns server does not function well *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_GENERAL	include/msp_errors.h	/^	MSP_ERROR_NET_GENERAL					= 10200, 	\/* 0x27D8 *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_INIT	include/msp_errors.h	/^	MSP_ERROR_NET_INIT     					= 10215, 	\/* 0x27E7 *\/   \/* ssl ctx create failed *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_INVALIDSOCK	include/msp_errors.h	/^	MSP_ERROR_NET_INVALIDSOCK      			= 10206, 	\/* 0x27DE *\/   \/* Invalid socket handle *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_INVALID_CLIENT_CERT	include/msp_errors.h	/^	MSP_ERROR_NET_INVALID_CLIENT_CERT		= 10223,$/;"	e	enum:__anon6
+MSP_ERROR_NET_INVALID_KEY	include/msp_errors.h	/^	MSP_ERROR_NET_INVALID_KEY				= 10225,$/;"	e	enum:__anon6
+MSP_ERROR_NET_INVALID_ROOT_CERT	include/msp_errors.h	/^	MSP_ERROR_NET_INVALID_ROOT_CERT			= 10222,$/;"	e	enum:__anon6
+MSP_ERROR_NET_INVALID_SERVER_CERT	include/msp_errors.h	/^	MSP_ERROR_NET_INVALID_SERVER_CERT		= 10224,$/;"	e	enum:__anon6
+MSP_ERROR_NET_NOTBIND	include/msp_errors.h	/^	MSP_ERROR_NET_NOTBIND         			= 10210, 	\/* 0x27E2 *\/   \/* Socket is not bind to an address *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_NOTBLOCK	include/msp_errors.h	/^	MSP_ERROR_NET_NOTBLOCK					= 10228,$/;"	e	enum:__anon6
+MSP_ERROR_NET_NOTDGRAMSOCK	include/msp_errors.h	/^	MSP_ERROR_NET_NOTDGRAMSOCK     			= 10213, 	\/* 0x27E5 *\/   \/* The socket is not datagram type *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_NOTLISTEN	include/msp_errors.h	/^	MSP_ERROR_NET_NOTLISTEN        			= 10211, 	\/* 0x27E3 *\/   \/* Socket is not listening *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_NOTOPENSOCK	include/msp_errors.h	/^	MSP_ERROR_NET_NOTOPENSOCK      			= 10209, 	\/* 0x27E1 *\/   \/* Socket is not opened *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_OPENSOCK	include/msp_errors.h	/^	MSP_ERROR_NET_OPENSOCK         			= 10201, 	\/* 0x27D9 *\/   \/* Open socket *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_RECVSOCK	include/msp_errors.h	/^	MSP_ERROR_NET_RECVSOCK         			= 10205, 	\/* 0x27DD *\/   \/* Recv socket data *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_SENDSOCK	include/msp_errors.h	/^	MSP_ERROR_NET_SENDSOCK         			= 10204, 	\/* 0x27DC *\/   \/* Send socket data *\/$/;"	e	enum:__anon6
+MSP_ERROR_NET_SSL_HANDSHAKE	include/msp_errors.h	/^	MSP_ERROR_NET_SSL_HANDSHAKE				= 10221,$/;"	e	enum:__anon6
+MSP_ERROR_NET_WOULDBLOCK	include/msp_errors.h	/^	MSP_ERROR_NET_WOULDBLOCK				= 10227,$/;"	e	enum:__anon6
+MSP_ERROR_NFL_INNER_ERROR	include/msp_errors.h	/^	MSP_ERROR_NFL_INNER_ERROR               = 10216,    \/* NFL inner error *\/$/;"	e	enum:__anon6
+MSP_ERROR_NGX_LOG_MORE_TOTEL_SIZE	include/msp_errors.h	/^	MSP_ERROR_NGX_LOG_MORE_TOTEL_SIZE        = 18000,				    \/*nginx������־��С�쳣*\/$/;"	e	enum:__anon6
+MSP_ERROR_NOT_FOUND	include/msp_errors.h	/^	MSP_ERROR_NOT_FOUND						= 10116, 	\/* 0x2784 *\/  \/* ���ݿ���ģ�Ͳ����� *\/$/;"	e	enum:__anon6
+MSP_ERROR_NOT_IMPLEMENT	include/msp_errors.h	/^	MSP_ERROR_NOT_IMPLEMENT					= 10104, 	\/* 0x2778 *\/$/;"	e	enum:__anon6
+MSP_ERROR_NOT_INIT	include/msp_errors.h	/^	MSP_ERROR_NOT_INIT						= 10111, 	\/* 0x277F *\/  \/* ����δ��ʼ��,������������� *\/$/;"	e	enum:__anon6
+MSP_ERROR_NOT_SUPPORT	include/msp_errors.h	/^	MSP_ERROR_NOT_SUPPORT					= 10103, 	\/* 0x2777 *\/$/;"	e	enum:__anon6
+MSP_ERROR_NO_DATA	include/msp_errors.h	/^	MSP_ERROR_NO_DATA						= 10118, 	\/* 0x2786 *\/  \/* �ӿͻ��˶���Ƶ�������λ�ȡ���ʱ������ *\/$/;"	e	enum:__anon6
+MSP_ERROR_NO_EID	include/msp_errors.h	/^	MSP_ERROR_NO_EID						= 10134,	\/* 0x2795 *\/$/;"	e	enum:__anon6
+MSP_ERROR_NO_ENOUGH_BUFFER	include/msp_errors.h	/^	MSP_ERROR_NO_ENOUGH_BUFFER				= 10117, 	\/* 0x2785 *\/$/;"	e	enum:__anon6
+MSP_ERROR_NO_LICENSE	include/msp_errors.h	/^	MSP_ERROR_NO_LICENSE					= 10110, 	\/* 0x277E *\/  \/* ������Ȩ���� *\/$/;"	e	enum:__anon6
+MSP_ERROR_NO_MORE_DATA	include/msp_errors.h	/^	MSP_ERROR_NO_MORE_DATA					= 10119, 	\/* 0x2787 *\/$/;"	e	enum:__anon6
+MSP_ERROR_NO_RESPONSE_DATA	include/msp_errors.h	/^	MSP_ERROR_NO_RESPONSE_DATA				= 10120, 	\/* 0x2788 *\/$/;"	e	enum:__anon6
+MSP_ERROR_NULL_HANDLE	include/msp_errors.h	/^	MSP_ERROR_NULL_HANDLE					= 10112, 	\/* 0x2780 *\/$/;"	e	enum:__anon6
+MSP_ERROR_OPEN_FILE	include/msp_errors.h	/^	MSP_ERROR_OPEN_FILE						= 10115, 	\/* 0x2783 *\/$/;"	e	enum:__anon6
+MSP_ERROR_OUT_OF_MEMORY	include/msp_errors.h	/^	MSP_ERROR_OUT_OF_MEMORY					= 10101, 	\/* 0x2775 *\/$/;"	e	enum:__anon6
+MSP_ERROR_OVERFLOW	include/msp_errors.h	/^    MSP_ERROR_OVERFLOW						= 10113, 	\/* 0x2781 *\/  \/* ���û���ģ����������(10��), *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_DUPLICATE_GRAMMAR	include/msp_errors.h	/^	MSP_ERROR_REC_DUPLICATE_GRAMMAR			= 10704, 	\/* 0x29D0 *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_GENERAL	include/msp_errors.h	/^	MSP_ERROR_REC_GENERAL					= 10700, 	\/* 0x29CC *\/  \/* �����쳣 *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_GRAMMAR_ERROR	include/msp_errors.h	/^	MSP_ERROR_REC_GRAMMAR_ERROR				= 10702, 	\/* 0x29CE *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_INACTIVE	include/msp_errors.h	/^	MSP_ERROR_REC_INACTIVE					= 10701, 	\/* 0x29CD *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_INVALID_LANGUAGE	include/msp_errors.h	/^	MSP_ERROR_REC_INVALID_LANGUAGE			= 10706, 	\/* 0x29D2 *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_INVALID_MEDIA_TYPE	include/msp_errors.h	/^	MSP_ERROR_REC_INVALID_MEDIA_TYPE		= 10705, 	\/* 0x29D1 *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_NO_ACTIVE_GRAMMARS	include/msp_errors.h	/^	MSP_ERROR_REC_NO_ACTIVE_GRAMMARS		= 10703, 	\/* 0x29CF *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_PROC_MOD	include/msp_errors.h	/^	MSP_ERROR_REC_PROC_MOD					= 10710,	\/* 0x29D6 *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_URI_FETCH_ERROR	include/msp_errors.h	/^	MSP_ERROR_REC_URI_FETCH_ERROR			= 10709, 	\/* 0x29D5 *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_URI_NOT_FOUND	include/msp_errors.h	/^	MSP_ERROR_REC_URI_NOT_FOUND				= 10707, 	\/* 0x29D3 *\/$/;"	e	enum:__anon6
+MSP_ERROR_REC_URI_TIMEOUT	include/msp_errors.h	/^	MSP_ERROR_REC_URI_TIMEOUT				= 10708, 	\/* 0x29D4 *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_DATA	include/msp_errors.h	/^	MSP_ERROR_RES_DATA          			= 10510, 	\/* 0x290E *\/   \/* Resource data currupt *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_FREE	include/msp_errors.h	/^	MSP_ERROR_RES_FREE          			= 10502, 	\/* 0x2906 *\/   \/* Free resource *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_GENERAL	include/msp_errors.h	/^	MSP_ERROR_RES_GENERAL					= 10500, 	\/* 0x2904 *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_HEAD	include/msp_errors.h	/^	MSP_ERROR_RES_HEAD          			= 10509, 	\/* 0x290D *\/   \/* Resource head currupt *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_INVALID_ID	include/msp_errors.h	/^	MSP_ERROR_RES_INVALID_ID    			= 10505, 	\/* 0x2909 *\/   \/* Invalid resource ID *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_INVALID_IMG	include/msp_errors.h	/^	MSP_ERROR_RES_INVALID_IMG   			= 10506, 	\/* 0x290A *\/   \/* Invalid resource image pointer *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_INVALID_NAME	include/msp_errors.h	/^	MSP_ERROR_RES_INVALID_NAME  			= 10504, 	\/* 0x2908 *\/   \/* Invalid resource file name *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_LEAK	include/msp_errors.h	/^	MSP_ERROR_RES_LEAK          			= 10508, 	\/* 0x290C *\/   \/* Resource leak out *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_LOAD	include/msp_errors.h	/^	MSP_ERROR_RES_LOAD          			= 10501, 	\/* 0x2905 *\/   \/* Load resource *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_MISSING	include/msp_errors.h	/^	MSP_ERROR_RES_MISSING       			= 10503, 	\/* 0x2907 *\/   \/* Resource File Missing *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_SKIP	include/msp_errors.h	/^	MSP_ERROR_RES_SKIP          			= 10511, 	\/* 0x290F *\/   \/* Resource file skipped *\/$/;"	e	enum:__anon6
+MSP_ERROR_RES_WRITE	include/msp_errors.h	/^	MSP_ERROR_RES_WRITE         			= 10507, 	\/* 0x290B *\/   \/* Write read-only resource *\/$/;"	e	enum:__anon6
+MSP_ERROR_SESSION_RESET	include/msp_errors.h	/^	MSP_ERROR_SESSION_RESET	                = 10139,    \/* 0x279B *\/   \/* msc������ֹ�Ự��׼���ش� *\/$/;"	e	enum:__anon6
+MSP_ERROR_STREAM_CLEAR	include/msp_errors.h	/^	MSP_ERROR_STREAM_CLEAR				    = 10142,    \/* 0X279E *\/   \/* AIUI��ǰStream������ *\/$/;"	e	enum:__anon6
+MSP_ERROR_STREAM_FILTER	include/msp_errors.h	/^	MSP_ERROR_STREAM_FILTER					= 10141,	\/* 0X279D *\/   \/* AIUI��ǰStream������ *\/$/;"	e	enum:__anon6
+MSP_ERROR_TIME_OUT	include/msp_errors.h	/^	MSP_ERROR_TIME_OUT						= 10114, 	\/* 0x2782 *\/  \/* ��ʱ *\/$/;"	e	enum:__anon6
+MSP_ERROR_TTS_GENERAL	include/msp_errors.h	/^	MSP_ERROR_TTS_GENERAL					= 10600, 	\/* 0x2968 *\/$/;"	e	enum:__anon6
+MSP_ERROR_TTS_LTTS_ERROR	include/msp_errors.h	/^	MSP_ERROR_TTS_LTTS_ERROR				= 10603, 	\/* 0x296B *\/$/;"	e	enum:__anon6
+MSP_ERROR_TTS_TEXTEND	include/msp_errors.h	/^	MSP_ERROR_TTS_TEXTEND          			= 10601, 	\/* 0x2969 *\/  \/* Meet text end *\/$/;"	e	enum:__anon6
+MSP_ERROR_TTS_TEXT_EMPTY	include/msp_errors.h	/^	MSP_ERROR_TTS_TEXT_EMPTY				= 10602, 	\/* 0x296A *\/  \/* no synth text *\/$/;"	e	enum:__anon6
+MSP_ERROR_TUV_CFGFILE	include/msp_errors.h	/^	MSP_ERROR_TUV_CFGFILE					= 10903, 	\/* 0x2A97 *\/   \/* Open cfg file *\/ $/;"	e	enum:__anon6
+MSP_ERROR_TUV_GENERAL	include/msp_errors.h	/^	MSP_ERROR_TUV_GENERAL					= 10900, 	\/* 0x2A94 *\/$/;"	e	enum:__anon6
+MSP_ERROR_TUV_GETHIDPARAM	include/msp_errors.h	/^	MSP_ERROR_TUV_GETHIDPARAM        		= 10901, 	\/* 0x2A95 *\/   \/* Get Busin Param huanid*\/$/;"	e	enum:__anon6
+MSP_ERROR_TUV_RECV_CONTENT	include/msp_errors.h	/^	MSP_ERROR_TUV_RECV_CONTENT              = 10904, 	\/* 0x2A98 *\/   \/* received content is error *\/$/;"	e	enum:__anon6
+MSP_ERROR_TUV_TOKEN	include/msp_errors.h	/^	MSP_ERROR_TUV_TOKEN      				= 10902, 	\/* 0x2A96 *\/   \/* Get Token *\/$/;"	e	enum:__anon6
+MSP_ERROR_TUV_VERFAIL	include/msp_errors.h	/^	MSP_ERROR_TUV_VERFAIL      			    = 10905, 	\/* 0x2A99 *\/   \/* Verify failure *\/$/;"	e	enum:__anon6
+MSP_ERROR_USER_ACTIVE_ABORT	include/msp_errors.h	/^	MSP_ERROR_USER_ACTIVE_ABORT             = 10136,    \/* 0x2798 *\/   \/* user abort *\/$/;"	e	enum:__anon6
+MSP_ERROR_USER_CANCELLED	include/msp_errors.h	/^	MSP_ERROR_USER_CANCELLED				= 10131, 	\/* 0x2793 *\/$/;"	e	enum:__anon6
+MSP_ERROR_VALID_IMAGE_SIZE	include/msp_errors.h	/^	MSP_ERROR_VALID_IMAGE_SIZE				= 11705,			\/\/	��ͼƬ��С�쳣 ����Ӧ�������������20205��$/;"	e	enum:__anon6
+MSP_ERROR_VERSION_CHECK	include/msp_errors.h	/^	MSP_ERROR_VERSION_CHECK                 = 10125, 	\/* 0x278D *\/$/;"	e	enum:__anon6
+MSP_ERROT_CLIENT_TIME_OUT	include/msp_errors.h	/^	MSP_ERROT_CLIENT_TIME_OUT               = 10218,    \/* CLIENT TIMEOUT *\/$/;"	e	enum:__anon6
+MSP_HTTP_ERROR	include/msp_errors.h	4;"	d
+MSP_SUCCESS	include/msp_errors.h	/^	MSP_SUCCESS								= 0,$/;"	e	enum:__anon6
+SPEECH_CLIENT_ERROR_ISUSING	include/msp_errors.h	/^	SPEECH_CLIENT_ERROR_ISUSING							   = 20019, \/* ¼������ռ��(iOSƽ̨) *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_BASE	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_BASE					           = 24100,	$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_BUFFER_OVERFLOW	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_BUFFER_OVERFLOW		           = 24112,  \/* get data size exceed the data buffer *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_HEADFILE	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_HEADFILE					       = 24111,  \/* the HeadFile is different of the SDK *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_INSUFFICIENT_HEAP	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_INSUFFICIENT_HEAP			       = 24104,  \/* insufficient heap size  *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_INVALID_CSSML	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_INVALID_CSSML     	               = 24114,   \/* !Invalid cssml format *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_INVALID_HANDLE	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_INVALID_HANDLE			           = 24102,  \/* invalid handle *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_INVALID_ISAMPA	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_INVALID_ISAMPA			           = 24113,  \/* !Invalid iSampa format or input iSampa text contain invalid alphabet*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_INVALID_PARA	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_INVALID_PARA			           = 24103,  \/* invalid parameter(s) *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_INVALID_PARA_ID	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_INVALID_PARA_ID			       = 24106,  \/* invalid parameter ID *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_INVALID_PARA_VALUE	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_INVALID_PARA_VALUE		           = 24107,  \/* invalid parameter value *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_LBENDIAN	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_LBENDIAN					       = 24110,  \/* the Endian of SDK  is error *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_RESOURCE	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_RESOURCE					       = 24108,  \/* Resource is error *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_RESOURCE_READ	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_RESOURCE_READ				       = 24109,  \/* read resource error *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_STATE_REFUSE	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_STATE_REFUSE				       = 24105,  \/* refuse to do in current state  *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_UNIMPEMENTED	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_UNIMPEMENTED				       = 24100,  \/* unimplemented function *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AISOUND_UNSUPPORTED	include/msp_errors.h	/^	SPEECH_ERROR_AISOUND_UNSUPPORTED				       = 24101,  \/* unsupported on this platform *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_ALREADY_STARTED	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_ALREADY_STARTED                    = 23130, \/\/ ivErr_AlreadyStarted      = 31$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_ALREADY_STOPPED	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_ALREADY_STOPPED                    = 23131, \/\/ ivErr_AlreadyStopped      = 32$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_AUDIO_CUT	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_AUDIO_CUT                          = 23121, \/\/ ivErr_CUT                 = 22 \/*¼����������*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_AUDIO_LOWER	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_AUDIO_LOWER                        = 23122, \/\/ ivErr_LOWER               = 23 \/*¼����������*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_BUFFER_EMPTY	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_BUFFER_EMPTY                       = 23117, \/\/ ivErr_BufferEmpty         = 18$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_BUFFER_OVERFLOW	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_BUFFER_OVERFLOW                    = 23103, \/\/ ivErr_BufferFull          = 4  \/*��Ƶ���ݻ���������*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_BUSY	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_BUSY                               = 23126, \/\/ ivErr_Busy                = 27$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_CANNOT_SAVE_FILE	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_CANNOT_SAVE_FILE                   = 23115, \/\/ ivErr_CanNotSaveFile      = 16$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_ENDED	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_ENDED                              = 23113, \/\/ ivErr_Ended               = 14$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_FAILED	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_FAILED                             = 23104, \/\/ ivErr_Failed              = 5$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_FALSE	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_FALSE                              = 23100, \/\/ ivErr_FALSE               = 1                                                                                                              $/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_GET_RESULT	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_GET_RESULT                         = 23118, \/\/ ivErr_GetResult           = 19$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_GRM_ERR	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_GRM_ERR                            = 23300,  \/\/ �﷨����$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_GRM_NOT_UPDATE	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_GRM_NOT_UPDATE                     = 23127, \/\/ ivErr_GrmNotUpdate        = 28 \/*�﷨δ����*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_IDLE	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_IDLE                               = 23114, \/\/ ivErr_Idle                = 15                                                                       $/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_INSUFFICIENT_PERMISSIONS	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_INSUFFICIENT_PERMISSIONS           = 23123, \/\/ ivErr_Limitted            = 24 \/*��Ȩ����*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_INVALID_CALL	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_INVALID_CALL                       = 23110, \/\/ ivErr_InvCall             = 11 \/*��Ч����*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_INVALID_GRAMMAR	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_INVALID_GRAMMAR                    = 23109, \/\/ ivErr_InvGrmr             = 10 \/*ʶ���﷨����*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_INVALID_GRAMMAR_NAME	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_INVALID_GRAMMAR_NAME               = 23116, \/\/ ivErr_InvName             = 17 \/*�ķ���ʵ����ƷǷ�*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_INVALID_PARA	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_INVALID_PARA                       = 23102, \/\/ ivErr_InvArg              = 3$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_INVALID_RESOURCE	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_INVALID_RESOURCE                   = 23107, \/\/ ivErr_InvResource         = 8  \/*��Դ��Ч*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_MAE_RIGHT	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_MAE_RIGHT                          = 23134, \/\/ ivErr_MAERight            = 35 $/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_MAE_WRONG	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_MAE_WRONG                          = 23135, \/\/ ivErr_MAEWrong            = 36$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_NOT_FOUND	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_NOT_FOUND                          = 23108, \/\/ ivErr_NotFound            = 9  \/*���ļ�ʧ��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_NOT_SUPPORTED	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_NOT_SUPPORTED                      = 23105, \/\/ ivErr_NotSupport          = 6  \/*���治֧��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_OUT_OF_MEMORY	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_OUT_OF_MEMORY                      = 23106, \/\/ ivErr_OutOfMemory         = 7$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_PERMISSION_DENIED	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_PERMISSION_DENIED                  = 23101, \/\/ ivErr_InvSN               = 2$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_REACT_OUT_TIME	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_REACT_OUT_TIME                     = 23119, \/\/ ivErr_ReactOutTime        = 20 \/*��Ӧ��ʱ*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_RESET	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_RESET                              = 23112, \/\/ ivErr_Reset               = 13                                                                       $/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_RESULT_ERROR	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_RESULT_ERROR                       = 23124, \/\/ ivErr_ResultError         = 25 \/*������Wfst�������Ȼ��cmd���*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_SHORT_PAUSE	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_SHORT_PAUSE                        = 23125, \/\/ ivErr_ShortPause          = 26$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_SPEECH_OUT_TIME	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_SPEECH_OUT_TIME                    = 23120, \/\/ ivErr_SpeechOutTime       = 21 \/*������ʱ*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_STARTED	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_STARTED                            = 23128, \/\/ ivErr_Started             = 29$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_STOPPED	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_STOPPED                            = 23129, \/\/ ivErr_Stopped             = 30$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_SYNTAX_ERROR	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_SYNTAX_ERROR                       = 23111, \/\/ ivErr_InvCall             = 12$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_TOO_MANY_COMMAND	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_TOO_MANY_COMMAND                   = 23132, \/\/ ivErr_TooManyCmd          = 33$/;"	e	enum:__anon6
+SPEECH_ERROR_AITALK_WAIT	include/msp_errors.h	/^	SPEECH_ERROR_AITALK_WAIT                               = 23133, \/\/ ivErr_Wait                = 34 \/*�����������һЩ���������߳���Ҫ�ȴ�*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_CLIENT	include/msp_errors.h	/^	SPEECH_ERROR_ASR_CLIENT                                = 23000, \/*�ͻ���Ӧ�ó������*\/\/\/?????????$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_CREATE_HANDLE_FAILED	include/msp_errors.h	/^	SPEECH_ERROR_ASR_CREATE_HANDLE_FAILED                  = 23004, \/*�������ʧ��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_ENGINE_INIT_FAILED	include/msp_errors.h	/^	SPEECH_ERROR_ASR_ENGINE_INIT_FAILED                    = 23005, \/*�����ʼ��ʧ��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_ENGINE_STARTED	include/msp_errors.h	/^	SPEECH_ERROR_ASR_ENGINE_STARTED                        = 23006, \/*�����Ѿ�����*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_ENGINE_UNINIT	include/msp_errors.h	/^	SPEECH_ERROR_ASR_ENGINE_UNINIT                         = 23007, \/*����δ��ʼ��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_FILE_ACCESS	include/msp_errors.h	/^	SPEECH_ERROR_ASR_FILE_ACCESS                           = 23011, \/*���ļ�ʧ��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_INVALID_HANDLE	include/msp_errors.h	/^	SPEECH_ERROR_ASR_INVALID_HANDLE                        = 23010, \/*��Ч�ľ��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_INVALID_PARA	include/msp_errors.h	/^	SPEECH_ERROR_ASR_INVALID_PARA                          = 23001, \/*��Ч�Ĳ���*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_INVALID_PARA_VALUE	include/msp_errors.h	/^	SPEECH_ERROR_ASR_INVALID_PARA_VALUE                    = 23002, \/*��Ч�Ĳ���ֵ*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_NO_RECOGNIZED_RESULT	include/msp_errors.h	/^	SPEECH_ERROR_ASR_NO_RECOGNIZED_RESULT                  = 23009, \/*��ʶ����*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_OUT_OF_MEMORY	include/msp_errors.h	/^	SPEECH_ERROR_ASR_OUT_OF_MEMORY                         = 23003, \/*�ڴ�ľ�*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ASR_SPEECH_TIMEOUT	include/msp_errors.h	/^	SPEECH_ERROR_ASR_SPEECH_TIMEOUT                        = 23008, \/*ʶ��ʱ��VADû������û�м�⵽��˵㣩*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_AUDIO_RECORD	include/msp_errors.h	/^	SPEECH_ERROR_AUDIO_RECORD 				               = 20006, \/* ¼��ʧ�� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_COMPONENT_NOT_INSTALLED	include/msp_errors.h	/^	SPEECH_ERROR_COMPONENT_NOT_INSTALLED                   = 21001, \/* û�а�װ������� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_EMPTY_UTTERANCE	include/msp_errors.h	/^	SPEECH_ERROR_EMPTY_UTTERANCE 			               = 20009, \/* ��Ч���ı����� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ENGINE_BUSY	include/msp_errors.h	/^	SPEECH_ERROR_ENGINE_BUSY	                           = 21005, \/* ���深æ *\/ $/;"	e	enum:__anon6
+SPEECH_ERROR_ENGINE_CALL_FAIL	include/msp_errors.h	/^	SPEECH_ERROR_ENGINE_CALL_FAIL                          = 21004, \/* ����ʧ�� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ENGINE_INIT_FAIL	include/msp_errors.h	/^	SPEECH_ERROR_ENGINE_INIT_FAIL                          = 21003, \/* ��ʼ��ʧ�� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_ENGINE_NOT_SUPPORTED	include/msp_errors.h	/^	SPEECH_ERROR_ENGINE_NOT_SUPPORTED                      = 21002, \/* ���治֧�� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_FILE_ACCESS	include/msp_errors.h	/^	SPEECH_ERROR_FILE_ACCESS 				               = 20010, \/* �ļ���дʧ�� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_INTERRUPT	include/msp_errors.h	/^	SPEECH_ERROR_INTERRUPT 				                   = 20017, \/* ���쳣��� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_INVALID_DATA	include/msp_errors.h	/^	SPEECH_ERROR_INVALID_DATA 				               = 20014, \/* ��Ч���� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_INVALID_PARAM	include/msp_errors.h	/^	SPEECH_ERROR_INVALID_PARAM 			                   = 20012, \/* ��Ч�Ĳ���*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_INVALID_RESULT	include/msp_errors.h	/^	SPEECH_ERROR_INVALID_RESULT			                   = 20004, \/* ����Ч�Ľ��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_BUFFERED_AUDIOD_LITTLE	include/msp_errors.h	/^	SPEECH_ERROR_IVW_BUFFERED_AUDIOD_LITTLE   = 25002,  \/* ���Ѽ�ʶ�𻺴���Ƶ���� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_ENGINE_UNINI	include/msp_errors.h	/^	SPEECH_ERROR_IVW_ENGINE_UNINI             = 25000,  \/* ����δ��ʼ�� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_ENROLL1_FAILED	include/msp_errors.h	/^    SPEECH_ERROR_IVW_ENROLL1_FAILED           = 25115,   \/\/ IvwErr_Enroll1_Failed  = 15               $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_ENROLL1_SUCESS	include/msp_errors.h	/^    SPEECH_ERROR_IVW_ENROLL1_SUCESS           = 25114,   \/\/ IvwErr_Enroll1_Success = 14             $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_ENROLL2_FAILED	include/msp_errors.h	/^    SPEECH_ERROR_IVW_ENROLL2_FAILED           = 25117,   \/\/ IvwErr_Enroll2_Failed  = 17              $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_ENROLL2_SUCESS	include/msp_errors.h	/^    SPEECH_ERROR_IVW_ENROLL2_SUCESS           = 25116,   \/\/ IvwErr_Enroll2_Success = 16               $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_ENROLL3_FAILED	include/msp_errors.h	/^    SPEECH_ERROR_IVW_ENROLL3_FAILED           = 25119,   \/\/ IvwErr_Enroll3_Failed  = 19             $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_ENROLL3_SUCESS	include/msp_errors.h	/^    SPEECH_ERROR_IVW_ENROLL3_SUCESS           = 25118,   \/\/ IvwErr_Enroll3_Success = 18             $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_INTERRUPT	include/msp_errors.h	/^	SPEECH_ERROR_IVW_INTERRUPT 			                   = 22004, \/* ���ػ������汻�쳣��� *\/ $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_INVALID_ARG	include/msp_errors.h	/^    SPEECH_ERROR_IVW_INVALID_ARG              = 25102,   \/\/ IvwErr_InvArg	    = 2				    $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_INVALID_CALL	include/msp_errors.h	/^	SPEECH_ERROR_IVW_INVALID_CALL             = 25101,   \/\/ IvwErr_InvCal       = 1					   $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_INVALID_RESOURCE	include/msp_errors.h	/^	SPEECH_ERROR_IVW_INVALID_RESOURCE         = 25107,   \/\/ IvwErr_InvRes		= 7			  $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_INVALID_RESTYPE	include/msp_errors.h	/^	SPEECH_ERROR_IVW_INVALID_RESTYPE          = 25003,  \/* ���Ϸ�����Դ���� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_INVALID_SN	include/msp_errors.h	/^    SPEECH_ERROR_IVW_INVALID_SN               = 25111,   \/\/ IvwErr_InvSN		= 11			    $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_LIMITTED	include/msp_errors.h	/^    SPEECH_ERROR_IVW_LIMITTED                 = 25112,   \/\/ IvwErr_Limitted		= 12			    $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_NOT_FOUND	include/msp_errors.h	/^    SPEECH_ERROR_IVW_NOT_FOUND                = 25110,   \/\/ IvwErr_NotFound		= 10		         $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_NOT_SUPPORT	include/msp_errors.h	/^    SPEECH_ERROR_IVW_NOT_SUPPORT              = 25109,   \/\/ IvwErr_NotSupport	= 9			  $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_OUT_BUFFER_EMPTY	include/msp_errors.h	/^    SPEECH_ERROR_IVW_OUT_BUFFER_EMPTY         = 25106,   \/\/ IvwErr_BufferEmpty	= 6			    $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_OUT_BUFFER_FULL	include/msp_errors.h	/^    SPEECH_ERROR_IVW_OUT_BUFFER_FULL          = 25105,   \/\/ IvwErr_BufferFull	= 5$/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_OUT_OF_MEMORY	include/msp_errors.h	/^    SPEECH_ERROR_IVW_OUT_OF_MEMORY            = 25104,   \/\/ IvwErr_OutOfMemory  = 4			   $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_REPETITIOPN_ENTER	include/msp_errors.h	/^    SPEECH_ERROR_IVW_REPETITIOPN_ENTER        = 25108,   \/\/ IvwErr_ReEnter		= 8$/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_RESVER_NOMATCH	include/msp_errors.h	/^	SPEECH_ERROR_IVW_RESVER_NOMATCH           = 25001,  \/* ��Դ�汾��ƥ�� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_SPEECH_STOP	include/msp_errors.h	/^    SPEECH_ERROR_IVW_SPEECH_STOP              = 25121,   \/\/ IvwErr_SpeechStop      = 21             $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_SPEECH_TOO_SHORT	include/msp_errors.h	/^    SPEECH_ERROR_IVW_SPEECH_TOO_SHORT         = 25120,   \/\/ IvwErr_SpeechTooShort  = 20            $/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_TELL_SIZE	include/msp_errors.h	/^    SPEECH_ERROR_IVW_TELL_SIZE                = 25103,   \/\/ IvwErr_TellSize     = 3$/;"	e	enum:__anon6
+SPEECH_ERROR_IVW_TIME_OUT	include/msp_errors.h	/^    SPEECH_ERROR_IVW_TIME_OUT                 = 25113,   \/\/ IvwErr_TimeOut		= 13		         $/;"	e	enum:__anon6
+SPEECH_ERROR_LFASR_BASE	include/msp_errors.h	/^	SPEECH_ERROR_LFASR_BASE					  = 26000,	\/* ��ʵʱתд��������� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_LOCAL_ENGINE	include/msp_errors.h	/^	SPEECH_ERROR_LOCAL_ENGINE                              = 22003, \/* ���������ڲ����� *\/   	       $/;"	e	enum:__anon6
+SPEECH_ERROR_LOCAL_NO_INIT	include/msp_errors.h	/^	SPEECH_ERROR_LOCAL_NO_INIT                             = 22001, \/* ��������δ��ʼ�� *\/              $/;"	e	enum:__anon6
+SPEECH_ERROR_LOCAL_RESOURCE	include/msp_errors.h	/^	SPEECH_ERROR_LOCAL_RESOURCE                            = 22002, \/* ������������Դ *\/   	              $/;"	e	enum:__anon6
+SPEECH_ERROR_LOGIN	include/msp_errors.h	/^	SPEECH_ERROR_LOGIN						               = 20015, \/* �û�δ��½*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_NETWORK_TIMEOUT	include/msp_errors.h	/^	SPEECH_ERROR_NETWORK_TIMEOUT 			               = 20002, \/* �������ӳ�ʱ*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_NET_EXPECTION	include/msp_errors.h	/^	SPEECH_ERROR_NET_EXPECTION				               = 20003, \/* �����쳣*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_NO_MATCH	include/msp_errors.h	/^	SPEECH_ERROR_NO_MATCH 					               = 20005, \/* ��ƥ���� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_NO_NETWORK	include/msp_errors.h	/^	SPEECH_ERROR_NO_NETWORK 				               = 20001, \/* ����Ч����������*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_NO_SPPECH	include/msp_errors.h	/^	SPEECH_ERROR_NO_SPPECH 				                   = 20007, \/* δ��⵽����*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_PERMISSION_DENIED	include/msp_errors.h	/^	SPEECH_ERROR_PERMISSION_DENIED 		                   = 20016, \/* ��Ч��Ȩ *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_PLAY_MEDIA	include/msp_errors.h	/^	SPEECH_ERROR_PLAY_MEDIA 				               = 20011, \/* ��Ƶ����ʧ�� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_SPEECH_TIMEOUT	include/msp_errors.h	/^	SPEECH_ERROR_SPEECH_TIMEOUT 			               = 20008, \/* ��Ƶ���볬ʱ*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_SYSTEM_PREINSTALL	include/msp_errors.h	/^	SPEECH_ERROR_SYSTEM_PREINSTALL                         = 20020, \/* ϵͳԤ�ð汾 *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TEXT_OVERFLOW	include/msp_errors.h	/^	SPEECH_ERROR_TEXT_OVERFLOW				               = 20013, \/* �ı���� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TTS_CREATE_HANDLE_FAILED	include/msp_errors.h	/^	SPEECH_ERROR_TTS_CREATE_HANDLE_FAILED			       = 24004, \/* �������ʧ��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TTS_ENGINE_BUSY	include/msp_errors.h	/^	SPEECH_ERROR_TTS_ENGINE_BUSY			               = 24009, \/* ����æ *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TTS_ENGINE_INIT_FAILED	include/msp_errors.h	/^	SPEECH_ERROR_TTS_ENGINE_INIT_FAILED	                   = 24008,	\/* �����ʼ��ʧ�� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TTS_ENGINE_UNINIT	include/msp_errors.h	/^	SPEECH_ERROR_TTS_ENGINE_UNINIT			               = 24007, \/* ����δ��ʼ�� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TTS_INVALID_HANDLE	include/msp_errors.h	/^	SPEECH_ERROR_TTS_INVALID_HANDLE                        = 24003, \/* ��Ч�ľ��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TTS_INVALID_PARA	include/msp_errors.h	/^	SPEECH_ERROR_TTS_INVALID_PARA                          = 24000, \/* ������� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TTS_INVALID_PARA_VALUE	include/msp_errors.h	/^	SPEECH_ERROR_TTS_INVALID_PARA_VALUE                    = 24001, \/* ��Ч�Ĳ���ֵ*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TTS_INVALID_RESOURCE	include/msp_errors.h	/^	SPEECH_ERROR_TTS_INVALID_RESOURCE	                   = 24005,	\/* ��Ч��Դ *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TTS_INVALID_VOICE_NAME	include/msp_errors.h	/^	SPEECH_ERROR_TTS_INVALID_VOICE_NAME	                   = 24006,	\/* ��Ч������*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_TTS_OUT_OF_MEMORY	include/msp_errors.h	/^	SPEECH_ERROR_TTS_OUT_OF_MEMORY	                       = 24002, \/* �ڴ治��*\/$/;"	e	enum:__anon6
+SPEECH_ERROR_UNKNOWN	include/msp_errors.h	/^   	SPEECH_ERROR_UNKNOWN                                   = 20999, \/* δ֪���� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_UNSATISFIED_LINK	include/msp_errors.h	/^	SPEECH_ERROR_UNSATISFIED_LINK 						   = 20021, \/* δʵ�ֵ�Native�������� *\/$/;"	e	enum:__anon6
+SPEECH_ERROR_VERSION_LOWER	include/msp_errors.h	/^    SPEECH_ERROR_VERSION_LOWER                             = 20018, \/* �汾���� *\/$/;"	e	enum:__anon6
+SPEECH_SUCCESS	include/msp_errors.h	/^	SPEECH_SUCCESS                                         = 0    , \/\/ ivErr_OK                  = 0 \/*�ɹ�״̬*\/ $/;"	e	enum:__anon6
+__MSP_ERRORS_H__	include/msp_errors.h	2;"	d
+MSPAPI	include/msp_types.h	6;"	d
+MSPAPI	include/msp_types.h	8;"	d
+MSP_AUDIO_SAMPLE_CONTINUE	include/msp_types.h	/^    MSP_AUDIO_SAMPLE_CONTINUE       = 0x02,$/;"	e	enum:__anon7
+MSP_AUDIO_SAMPLE_FIRST	include/msp_types.h	/^    MSP_AUDIO_SAMPLE_FIRST          = 0x01,$/;"	e	enum:__anon7
+MSP_AUDIO_SAMPLE_INIT	include/msp_types.h	/^	MSP_AUDIO_SAMPLE_INIT           = 0x00,$/;"	e	enum:__anon7
+MSP_AUDIO_SAMPLE_LAST	include/msp_types.h	/^    MSP_AUDIO_SAMPLE_LAST           = 0x04,$/;"	e	enum:__anon7
+MSP_DATA_SAMPLE_CONTINUE	include/msp_types.h	/^	MSP_DATA_SAMPLE_CONTINUE       = 0x02,$/;"	e	enum:__anon13
+MSP_DATA_SAMPLE_FIRST	include/msp_types.h	/^	MSP_DATA_SAMPLE_FIRST          = 0x01,$/;"	e	enum:__anon13
+MSP_DATA_SAMPLE_INIT	include/msp_types.h	/^	MSP_DATA_SAMPLE_INIT           = 0x00,$/;"	e	enum:__anon13
+MSP_DATA_SAMPLE_LAST	include/msp_types.h	/^	MSP_DATA_SAMPLE_LAST           = 0x04,$/;"	e	enum:__anon13
+MSP_EP_AFTER_SPEECH	include/msp_types.h	/^	MSP_EP_AFTER_SPEECH         = 3,$/;"	e	enum:__anon9
+MSP_EP_ERROR	include/msp_types.h	/^	MSP_EP_ERROR                = 5,$/;"	e	enum:__anon9
+MSP_EP_IDLE	include/msp_types.h	/^	MSP_EP_IDLE                 = 7  \/\/ internal state after stop and before start$/;"	e	enum:__anon9
+MSP_EP_IN_SPEECH	include/msp_types.h	/^	MSP_EP_IN_SPEECH            = 1,$/;"	e	enum:__anon9
+MSP_EP_LOOKING_FOR_SPEECH	include/msp_types.h	/^	MSP_EP_LOOKING_FOR_SPEECH   = 0,$/;"	e	enum:__anon9
+MSP_EP_MAX_SPEECH	include/msp_types.h	/^	MSP_EP_MAX_SPEECH           = 6,$/;"	e	enum:__anon9
+MSP_EP_TIMEOUT	include/msp_types.h	/^	MSP_EP_TIMEOUT              = 4,$/;"	e	enum:__anon9
+MSP_HCR_DATA_CONTINUE	include/msp_types.h	/^	MSP_HCR_DATA_CONTINUE        = 2,$/;"	e	enum:__anon11
+MSP_HCR_DATA_END	include/msp_types.h	/^	MSP_HCR_DATA_END             = 4,$/;"	e	enum:__anon11
+MSP_HCR_DATA_FIRST	include/msp_types.h	/^	MSP_HCR_DATA_FIRST           = 1,$/;"	e	enum:__anon11
+MSP_IVW_MSG_ENROLL	include/msp_types.h	/^	MSP_IVW_MSG_ENROLL       = 6,$/;"	e	enum:__anon12
+MSP_IVW_MSG_ERROR	include/msp_types.h	/^	MSP_IVW_MSG_ERROR        = 2,$/;"	e	enum:__anon12
+MSP_IVW_MSG_ISR_EPS	include/msp_types.h	/^	MSP_IVW_MSG_ISR_EPS      = 4,$/;"	e	enum:__anon12
+MSP_IVW_MSG_ISR_RESULT	include/msp_types.h	/^	MSP_IVW_MSG_ISR_RESULT   = 3,$/;"	e	enum:__anon12
+MSP_IVW_MSG_RESET	include/msp_types.h	/^	MSP_IVW_MSG_RESET        = 7$/;"	e	enum:__anon12
+MSP_IVW_MSG_VOLUME	include/msp_types.h	/^	MSP_IVW_MSG_VOLUME       = 5,$/;"	e	enum:__anon12
+MSP_IVW_MSG_WAKEUP	include/msp_types.h	/^	MSP_IVW_MSG_WAKEUP       = 1,$/;"	e	enum:__anon12
+MSP_REC_STATUS_COMPLETE	include/msp_types.h	/^	MSP_REC_STATUS_COMPLETE				= 5,$/;"	e	enum:__anon8
+MSP_REC_STATUS_FAILURE	include/msp_types.h	/^	MSP_REC_STATUS_FAILURE = MSP_REC_STATUS_NO_MATCH,$/;"	e	enum:__anon8
+MSP_REC_STATUS_INCOMPLETE	include/msp_types.h	/^	MSP_REC_STATUS_INCOMPLETE			= 2,$/;"	e	enum:__anon8
+MSP_REC_STATUS_MAX_CPU_TIME	include/msp_types.h	/^	MSP_REC_STATUS_MAX_CPU_TIME         = 6,$/;"	e	enum:__anon8
+MSP_REC_STATUS_MAX_SPEECH	include/msp_types.h	/^	MSP_REC_STATUS_MAX_SPEECH           = 7,$/;"	e	enum:__anon8
+MSP_REC_STATUS_NON_SPEECH_DETECTED	include/msp_types.h	/^	MSP_REC_STATUS_NON_SPEECH_DETECTED  = 3,$/;"	e	enum:__anon8
+MSP_REC_STATUS_NO_MATCH	include/msp_types.h	/^	MSP_REC_STATUS_NO_MATCH             = 1,$/;"	e	enum:__anon8
+MSP_REC_STATUS_NO_SPEECH_FOUND	include/msp_types.h	/^	MSP_REC_STATUS_NO_SPEECH_FOUND      = 10,$/;"	e	enum:__anon8
+MSP_REC_STATUS_REJECTED	include/msp_types.h	/^	MSP_REC_STATUS_REJECTED             = 9,$/;"	e	enum:__anon8
+MSP_REC_STATUS_SPEECH_DETECTED	include/msp_types.h	/^	MSP_REC_STATUS_SPEECH_DETECTED      = 4,$/;"	e	enum:__anon8
+MSP_REC_STATUS_STOPPED	include/msp_types.h	/^	MSP_REC_STATUS_STOPPED              = 8,$/;"	e	enum:__anon8
+MSP_REC_STATUS_SUCCESS	include/msp_types.h	/^	MSP_REC_STATUS_SUCCESS              = 0,$/;"	e	enum:__anon8
+MSP_TTS_FLAG_CMD_CANCELED	include/msp_types.h	/^    MSP_TTS_FLAG_CMD_CANCELED           = 4,$/;"	e	enum:__anon10
+MSP_TTS_FLAG_DATA_END	include/msp_types.h	/^    MSP_TTS_FLAG_DATA_END               = 2,$/;"	e	enum:__anon10
+MSP_TTS_FLAG_STILL_HAVE_DATA	include/msp_types.h	/^    MSP_TTS_FLAG_STILL_HAVE_DATA        = 1,$/;"	e	enum:__anon10
+__MSP_TYPES_H__	include/msp_types.h	2;"	d
+Proc_QISEAudioWrite	include/qise.h	/^typedef int (MSPAPI *Proc_QISEAudioWrite)(const char* sessionID, const void* waveData, unsigned int waveLen, int audioStatus, int *epStatus, int *recogStatus);$/;"	t
+Proc_QISEAudioWriteW	include/qise.h	/^typedef int (MSPAPI *Proc_QISEAudioWriteW)(const wchar_t* sessionID, const void* waveData, unsigned int waveLen, int audioStatus, int *epStatus, int *evlStatus);$/;"	t
+Proc_QISEGetParam	include/qise.h	/^typedef int (MSPAPI *Proc_QISEGetParam)(const char* sessionID, const char* paramName, char* paramValue, unsigned int* valueLen);$/;"	t
+Proc_QISEGetParamW	include/qise.h	/^typedef int (MSPAPI *Proc_QISEGetParamW)(const wchar_t* sessionID, const wchar_t* paramName, wchar_t* paramValue, unsigned int* valueLen);$/;"	t
+Proc_QISEGetResult	include/qise.h	/^typedef const char * (MSPAPI *Proc_QISEGetResult)(const char* sessionID, unsigned int* rsltLen, int* rsltStatus, int *errorCode);$/;"	t
+Proc_QISEGetResultW	include/qise.h	/^typedef const wchar_t* (MSPAPI *Proc_QISEGetResultW)(const wchar_t* sessionID, unsigned int* rsltLen, int* rsltStatus, int *errorCode);$/;"	t
+Proc_QISEResultInfo	include/qise.h	/^typedef const char* (MSPAPI *Proc_QISEResultInfo)(const char* sessionID, int *errorCode);$/;"	t
+Proc_QISEResultInfoW	include/qise.h	/^typedef const wchar_t* (MSPAPI *Proc_QISEResultInfoW)(const wchar_t* sessionID, int *errorCode);$/;"	t
+Proc_QISESessionBegin	include/qise.h	/^typedef const char* (MSPAPI *Proc_QISESessionBegin)(const char* params, const char* userModelID, int *errorCode);$/;"	t
+Proc_QISESessionBeginW	include/qise.h	/^typedef const wchar_t* (MSPAPI *Proc_QISESessionBeginW)(const wchar_t* params, const wchar_t* userModelID, int *errorCode);$/;"	t
+Proc_QISESessionEnd	include/qise.h	/^typedef int (MSPAPI *Proc_QISESessionEnd)(const char* sessionID, const char* hints);$/;"	t
+Proc_QISESessionEndW	include/qise.h	/^typedef int (MSPAPI *Proc_QISESessionEndW)(const wchar_t* sessionID, const wchar_t* hints);$/;"	t
+Proc_QISETextPut	include/qise.h	/^typedef int (MSPAPI *Proc_QISETextPut)(const char* sessionID, const char* textString, unsigned int textLen, const char* params);$/;"	t
+Proc_QISETextPutW	include/qise.h	/^typedef int (MSPAPI *Proc_QISETextPutW)(const wchar_t* sessionID, const wchar_t* textString, unsigned int textLen, const wchar_t* params);$/;"	t
+__MSP_ISE_H__	include/qise.h	32;"	d
+GrammarCallBack	include/qisr.h	/^typedef int ( *GrammarCallBack)( int, const char*, void*);$/;"	t
+LexiconCallBack	include/qisr.h	/^typedef int ( *LexiconCallBack)( int, const char*, void*);$/;"	t
+Proc_QISRAudioWrite	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRAudioWrite)(const char* sessionID, const void* waveData, unsigned int waveLen, int audioStatus, int *epStatus, int *recogStatus);$/;"	t
+Proc_QISRAudioWriteW	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRAudioWriteW)(const wchar_t* sessionID, const void* waveData, unsigned int waveLen, int audioStatus, int *epStatus, int *recogStatus);$/;"	t
+Proc_QISRBuildGrammar	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRBuildGrammar)(const char *grammarType, const char *grammarContent, unsigned int grammarLength, const char *params, GrammarCallBack callback, void *userData);$/;"	t
+Proc_QISRBuildGrammarW	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRBuildGrammarW)(const wchar_t *grmmarType, const wchar_t *grammarContent, unsigned int grammarLength, const wchar_t *params, GrammarCallBack callback, void *userData);$/;"	t
+Proc_QISRGetBinaryResult	include/qisr.h	/^typedef const char * (MSPAPI *Proc_QISRGetBinaryResult)(const char* sessionID, unsigned int* rsltLen, int* rsltStatus, int waitTime, int *errorCode);$/;"	t
+Proc_QISRGetBinaryResultW	include/qisr.h	/^typedef const wchar_t* (MSPAPI *Proc_QISRGetBinaryResultW)(const wchar_t* sessionID, unsigned int* rsltLen, int* rsltStatus, int waitTime, int *errorCode);$/;"	t
+Proc_QISRGetParam	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRGetParam)(const char* sessionID, const char* paramName, char* paramValue, unsigned int* valueLen);$/;"	t
+Proc_QISRGetParamW	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRGetParamW)(const wchar_t* sessionID, const wchar_t* paramName, wchar_t* paramValue, unsigned int* valueLen);$/;"	t
+Proc_QISRGetResult	include/qisr.h	/^typedef const char * (MSPAPI *Proc_QISRGetResult)(const char* sessionID, int* rsltStatus, int waitTime, int *errorCode);$/;"	t
+Proc_QISRGetResultW	include/qisr.h	/^typedef const wchar_t* (MSPAPI *Proc_QISRGetResultW)(const wchar_t* sessionID, int* rsltStatus, int waitTime, int *errorCode);$/;"	t
+Proc_QISRSessionBegin	include/qisr.h	/^typedef const char* (MSPAPI *Proc_QISRSessionBegin)(const char* grammarList, const char* params, int *result);$/;"	t
+Proc_QISRSessionBeginW	include/qisr.h	/^typedef const wchar_t* (MSPAPI *Proc_QISRSessionBeginW)(const wchar_t* grammarList, const wchar_t* params, int *result);$/;"	t
+Proc_QISRSessionEnd	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRSessionEnd)(const char* sessionID, const char* hints);$/;"	t
+Proc_QISRSessionEndW	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRSessionEndW)(const wchar_t* sessionID, const wchar_t* hints);$/;"	t
+Proc_QISRSetParam	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRSetParam)(const char* sessionID, const char* paramName, const char* paramValue);$/;"	t
+Proc_QISRSetParamW	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRSetParamW)(const wchar_t* sessionID, const wchar_t* paramName, const wchar_t* paramValue);$/;"	t
+Proc_QISRUpdataLexicon	include/qisr.h	/^typedef int (MSPAPI *Proc_QISRUpdataLexicon)(const char *lexiconName, const char *lexiconContent, unsigned int lexiconLength, const char *params, LexiconCallBack callback, void *userData);$/;"	t
+Proc_QISRUpdateLexiconW	include/qisr.h	/^typedef int (MSPAPI Proc_QISRUpdateLexiconW)(const wchar_t *lexiconName, const wchar_t *lexiconContent, unsigned int lexiconLength, const wchar_t *params, LexiconCallBack callback, void *userData);$/;"	t
+UserCallBack	include/qisr.h	/^typedef int ( *UserCallBack)( int, const char*, void*);$/;"	t
+__QISR_H__	include/qisr.h	29;"	d
+recog_error_ntf_handler	include/qisr.h	/^typedef void ( *recog_error_ntf_handler)(const char *sessionID, int errorCode,	const char *detail, void *userData);$/;"	t
+recog_result_ntf_handler	include/qisr.h	/^typedef void ( *recog_result_ntf_handler)( const char *sessionID, const char *result, int resultLen, int resultStatus, void *userData ); $/;"	t
+recog_status_ntf_handler	include/qisr.h	/^typedef void ( *recog_status_ntf_handler)( const char *sessionID, int type, int status, int param1, const void *param2, void *userData);$/;"	t
+MSPAPI	include/qtts.h	35;"	d
+MSPAPI	include/qtts.h	37;"	d
+Proc_QTTSAudioGet	include/qtts.h	/^typedef const void* (MSPAPI *Proc_QTTSAudioGet)(const char* sessionID, unsigned int* audioLen, int* synthStatus, int* errorCode);$/;"	t
+Proc_QTTSAudioGetW	include/qtts.h	/^typedef const void* (MSPAPI *Proc_QTTSAudioGetW)(const wchar_t* sessionID, unsigned int* audioLen, int* synthStatus, int* errorCode);$/;"	t
+Proc_QTTSAudioInfo	include/qtts.h	/^typedef const char* (MSPAPI *Proc_QTTSAudioInfo)(const char* sessionID);$/;"	t
+Proc_QTTSAudioInfoW	include/qtts.h	/^typedef const wchar_t* (MSPAPI *Proc_QTTSAudioInfoW)(const wchar_t* sessionID);$/;"	t
+Proc_QTTSGetParam	include/qtts.h	/^typedef int (MSPAPI *Proc_QTTSGetParam)(const char* sessionID, const char* paramName, char* paramValue, unsigned int* valueLen);$/;"	t
+Proc_QTTSGetParamW	include/qtts.h	/^typedef int (MSPAPI *Proc_QTTSGetParamW)(const wchar_t* sessionID, const wchar_t* paramName, wchar_t* paramValue, unsigned int* valueLen);$/;"	t
+Proc_QTTSSessionBegin	include/qtts.h	/^typedef const char* (MSPAPI *Proc_QTTSSessionBegin)(const char* params, int* errorCode);$/;"	t
+Proc_QTTSSessionBeginW	include/qtts.h	/^typedef const wchar_t* (MSPAPI *Proc_QTTSSessionBeginW)(const wchar_t* params, int* errorCode);$/;"	t
+Proc_QTTSSessionEnd	include/qtts.h	/^typedef int (MSPAPI *Proc_QTTSSessionEnd)(const char* sessionID, const char* hints);$/;"	t
+Proc_QTTSSessionEndW	include/qtts.h	/^typedef int (MSPAPI *Proc_QTTSSessionEndW)(const wchar_t* sessionID, const wchar_t* hints);$/;"	t
+Proc_QTTSSetParam	include/qtts.h	/^typedef int (MSPAPI *Proc_QTTSSetParam)(const char* sessionID, const char* paramName, char* paramValue);$/;"	t
+Proc_QTTSSetParamW	include/qtts.h	/^typedef int (MSPAPI *Proc_QTTSSetParamW)(const wchar_t* sessionID, const wchar_t* paramName, wchar_t* paramValue);$/;"	t
+Proc_QTTSTextPut	include/qtts.h	/^typedef int (MSPAPI *Proc_QTTSTextPut)(const char* sessionID, const char* textString, unsigned int textLen, const char* params);$/;"	t
+Proc_QTTSTextPutW	include/qtts.h	/^typedef int (MSPAPI *Proc_QTTSTextPutW)(const wchar_t* sessionID, const wchar_t* textString, unsigned int textLen, const wchar_t* params);$/;"	t
+__QTTS_H__	include/qtts.h	31;"	d
+tts_error_ntf_handler	include/qtts.h	/^typedef void ( *tts_error_ntf_handler)(const char *sessionID, int errorCode,	const char *detail, void *userData);$/;"	t
+tts_result_ntf_handler	include/qtts.h	/^typedef void ( *tts_result_ntf_handler)( const char *sessionID, const char *audio, int audioLen, int synthStatus, int ced, const char *audioInfo, int audioInfoLen, void *userData ); $/;"	t
+tts_status_ntf_handler	include/qtts.h	/^typedef void ( *tts_status_ntf_handler)( const char *sessionID, int type, int status, int param1, const void *param2, void *userData);$/;"	t
+BIN_TARGET	samples/asr_sample/Makefile	/^BIN_TARGET = $(DIR_BIN)\/$(TARGET)$/;"	m
+CFLAGS	samples/asr_sample/Makefile	/^CFLAGS = -g -Wall -I$(DIR_INC)$/;"	m
+CROSS_COMPILE	samples/asr_sample/Makefile	/^CROSS_COMPILE = $/;"	m
+DIR_BIN	samples/asr_sample/Makefile	/^DIR_BIN = ..\/..\/bin$/;"	m
+DIR_INC	samples/asr_sample/Makefile	/^DIR_INC = ..\/..\/include$/;"	m
+DIR_LIB	samples/asr_sample/Makefile	/^DIR_LIB = ..\/..\/libs$/;"	m
+LDFLAGS	samples/asr_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x64$/;"	m
+LDFLAGS	samples/asr_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x86 $/;"	m
+OBJECTS	samples/asr_sample/Makefile	/^OBJECTS := $(patsubst %.c,%.o,$(wildcard *.c))$/;"	m
+TARGET	samples/asr_sample/Makefile	/^TARGET	= asr_sample$/;"	m
+BUFFER_SIZE	samples/asr_sample/asr_sample.c	14;"	d	file:
+FRAME_LEN	samples/asr_sample/asr_sample.c	17;"	d	file:
+GRAMID_LEN	samples/asr_sample/asr_sample.c	16;"	d	file:
+HINTS_SIZE	samples/asr_sample/asr_sample.c	15;"	d	file:
+get_grammar_id	samples/asr_sample/asr_sample.c	/^int get_grammar_id(char* grammar_id, unsigned int id_len)$/;"	f
+main	samples/asr_sample/asr_sample.c	/^int main(int argc, char* argv[])$/;"	f
+run_asr	samples/asr_sample/asr_sample.c	/^void run_asr(const char* audio_file, const char* params, char* grammar_id)$/;"	f
+BIN_TARGET	samples/iat_record_sample/Makefile	/^BIN_TARGET = $(DIR_BIN)\/$(TARGET)$/;"	m
+CFLAGS	samples/iat_record_sample/Makefile	/^CFLAGS = -g -Wall -I$(DIR_INC)$/;"	m
+CROSS_COMPILE	samples/iat_record_sample/Makefile	/^CROSS_COMPILE = $/;"	m
+DIR_BIN	samples/iat_record_sample/Makefile	/^DIR_BIN = ..\/..\/bin$/;"	m
+DIR_INC	samples/iat_record_sample/Makefile	/^DIR_INC = ..\/..\/include$/;"	m
+DIR_LIB	samples/iat_record_sample/Makefile	/^DIR_LIB = ..\/..\/libs$/;"	m
+LDFLAGS	samples/iat_record_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x64$/;"	m
+LDFLAGS	samples/iat_record_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x86 $/;"	m
+OBJECTS	samples/iat_record_sample/Makefile	/^OBJECTS := $(patsubst %.c,%.o,$(wildcard *.c))$/;"	m
+TARGET	samples/iat_record_sample/Makefile	/^TARGET	= iat_record_sample$/;"	m
+FORMATS_H_160601_TT	samples/iat_record_sample/formats.h	2;"	d
+WAVEFORMATEX	samples/iat_record_sample/formats.h	/^} WAVEFORMATEX;$/;"	t	typeref:struct:tWAVEFORMATEX
+WAVE_FORMAT_PCM	samples/iat_record_sample/formats.h	5;"	d
+cbSize	samples/iat_record_sample/formats.h	/^	unsigned short    cbSize;$/;"	m	struct:tWAVEFORMATEX
+nAvgBytesPerSec	samples/iat_record_sample/formats.h	/^	unsigned int      nAvgBytesPerSec;$/;"	m	struct:tWAVEFORMATEX
+nBlockAlign	samples/iat_record_sample/formats.h	/^	unsigned short	  nBlockAlign;$/;"	m	struct:tWAVEFORMATEX
+nChannels	samples/iat_record_sample/formats.h	/^	unsigned short    nChannels;$/;"	m	struct:tWAVEFORMATEX
+nSamplesPerSec	samples/iat_record_sample/formats.h	/^	unsigned int      nSamplesPerSec;$/;"	m	struct:tWAVEFORMATEX
+tWAVEFORMATEX	samples/iat_record_sample/formats.h	/^typedef struct tWAVEFORMATEX {$/;"	s
+wBitsPerSample	samples/iat_record_sample/formats.h	/^	unsigned short    wBitsPerSample;$/;"	m	struct:tWAVEFORMATEX
+wFormatTag	samples/iat_record_sample/formats.h	/^	unsigned short	  wFormatTag;$/;"	m	struct:tWAVEFORMATEX
+BUFFER_SIZE	samples/iat_record_sample/iat_record_sample.c	15;"	d	file:
+FRAME_LEN	samples/iat_record_sample/iat_record_sample.c	14;"	d	file:
+demo_file	samples/iat_record_sample/iat_record_sample.c	/^static void demo_file(const char* audio_file, const char* session_begin_params)$/;"	f	file:
+demo_mic	samples/iat_record_sample/iat_record_sample.c	/^static void demo_mic(const char* session_begin_params)$/;"	f	file:
+g_buffersize	samples/iat_record_sample/iat_record_sample.c	/^static unsigned int g_buffersize = BUFFER_SIZE;$/;"	v	file:
+g_result	samples/iat_record_sample/iat_record_sample.c	/^static char *g_result = NULL;$/;"	v	file:
+main	samples/iat_record_sample/iat_record_sample.c	/^int main(int argc, char* argv[])$/;"	f
+on_result	samples/iat_record_sample/iat_record_sample.c	/^void on_result(const char *result, char is_last)$/;"	f
+on_speech_begin	samples/iat_record_sample/iat_record_sample.c	/^void on_speech_begin()$/;"	f
+on_speech_end	samples/iat_record_sample/iat_record_sample.c	/^void on_speech_end(int reason)$/;"	f
+show_result	samples/iat_record_sample/iat_record_sample.c	/^static void show_result(char *string, char is_over)$/;"	f	file:
+upload_userwords	samples/iat_record_sample/iat_record_sample.c	/^static int upload_userwords()$/;"	f	file:
+DBG_ON	samples/iat_record_sample/linuxrec.c	19;"	d	file:
+DEFAULT_FORMAT	samples/iat_record_sample/linuxrec.c	44;"	d	file:
+DEF_BUFF_TIME	samples/iat_record_sample/linuxrec.c	41;"	d	file:
+DEF_PERIOD_TIME	samples/iat_record_sample/linuxrec.c	42;"	d	file:
+FRAME_CNT	samples/iat_record_sample/linuxrec.c	39;"	d	file:
+RECORD_STATE_CLOSING	samples/iat_record_sample/linuxrec.c	/^	RECORD_STATE_CLOSING,$/;"	e	enum:__anon1	file:
+RECORD_STATE_CREATED	samples/iat_record_sample/linuxrec.c	/^	RECORD_STATE_CREATED,	\/* Init		*\/$/;"	e	enum:__anon1	file:
+RECORD_STATE_READY	samples/iat_record_sample/linuxrec.c	/^	RECORD_STATE_READY,		\/* Opened	*\/$/;"	e	enum:__anon1	file:
+RECORD_STATE_RECORDING	samples/iat_record_sample/linuxrec.c	/^	RECORD_STATE_RECORDING,	\/* Started	*\/$/;"	e	enum:__anon1	file:
+RECORD_STATE_STOPPING	samples/iat_record_sample/linuxrec.c	/^	RECORD_STATE_STOPPING,	\/* During Stop	*\/$/;"	e	enum:__anon1	file:
+SAMPLE_BIT_SIZE	samples/iat_record_sample/linuxrec.c	38;"	d	file:
+SAMPLE_RATE	samples/iat_record_sample/linuxrec.c	37;"	d	file:
+close_recorder	samples/iat_record_sample/linuxrec.c	/^void close_recorder(struct recorder *rec)$/;"	f
+close_recorder_internal	samples/iat_record_sample/linuxrec.c	/^static void close_recorder_internal(struct recorder *rec)$/;"	f	file:
+create_record_thread	samples/iat_record_sample/linuxrec.c	/^static int create_record_thread(void * para, pthread_t * tidp)$/;"	f	file:
+create_recorder	samples/iat_record_sample/linuxrec.c	/^int create_recorder(struct recorder ** out_rec, $/;"	f
+dbg	samples/iat_record_sample/linuxrec.c	22;"	d	file:
+dbg	samples/iat_record_sample/linuxrec.c	24;"	d	file:
+destroy_recorder	samples/iat_record_sample/linuxrec.c	/^void destroy_recorder(struct recorder *rec)$/;"	f
+format_ms_to_alsa	samples/iat_record_sample/linuxrec.c	/^static int format_ms_to_alsa(const WAVEFORMATEX * wavfmt, $/;"	f	file:
+free_name_desc	samples/iat_record_sample/linuxrec.c	/^static void free_name_desc(char **name_or_desc) $/;"	f	file:
+free_rec_buffer	samples/iat_record_sample/linuxrec.c	/^static void free_rec_buffer(struct recorder * rec)$/;"	f	file:
+get_default_input_dev	samples/iat_record_sample/linuxrec.c	/^record_dev_id  get_default_input_dev()$/;"	f
+get_input_dev_num	samples/iat_record_sample/linuxrec.c	/^int get_input_dev_num()$/;"	f
+get_pcm_device_cnt	samples/iat_record_sample/linuxrec.c	/^static int get_pcm_device_cnt(snd_pcm_stream_t stream)$/;"	f	file:
+is_record_stopped	samples/iat_record_sample/linuxrec.c	/^int is_record_stopped(struct recorder *rec)$/;"	f
+is_stopped_internal	samples/iat_record_sample/linuxrec.c	/^static int is_stopped_internal(struct recorder *rec)$/;"	f	file:
+list_input_device	samples/iat_record_sample/linuxrec.c	/^record_dev_id * list_input_device() $/;"	f
+list_pcm	samples/iat_record_sample/linuxrec.c	/^static int list_pcm(snd_pcm_stream_t stream, char**name_out, $/;"	f	file:
+open_recorder	samples/iat_record_sample/linuxrec.c	/^int open_recorder(struct recorder * rec, record_dev_id dev, WAVEFORMATEX * fmt)$/;"	f
+open_recorder_internal	samples/iat_record_sample/linuxrec.c	/^static int open_recorder_internal(struct recorder * rec, $/;"	f	file:
+pcm_read	samples/iat_record_sample/linuxrec.c	/^static ssize_t pcm_read(struct recorder *rec, size_t rcount)$/;"	f	file:
+prepare_rec_buffer	samples/iat_record_sample/linuxrec.c	/^static int prepare_rec_buffer(struct recorder * rec )$/;"	f	file:
+record_thread_proc	samples/iat_record_sample/linuxrec.c	/^static void * record_thread_proc(void * para)$/;"	f	file:
+set_hwparams	samples/iat_record_sample/linuxrec.c	/^static int set_hwparams(struct recorder * rec,  const WAVEFORMATEX *wavfmt,$/;"	f	file:
+set_params	samples/iat_record_sample/linuxrec.c	/^static int set_params(struct recorder *rec, WAVEFORMATEX *fmt,$/;"	f	file:
+set_swparams	samples/iat_record_sample/linuxrec.c	/^static int set_swparams(struct recorder * rec)$/;"	f	file:
+show_xrun	samples/iat_record_sample/linuxrec.c	/^static int show_xrun = 1;$/;"	v	file:
+start_record	samples/iat_record_sample/linuxrec.c	/^int start_record(struct recorder * rec)$/;"	f
+start_record_internal	samples/iat_record_sample/linuxrec.c	/^static int start_record_internal(snd_pcm_t *pcm)$/;"	f	file:
+stop_record	samples/iat_record_sample/linuxrec.c	/^int stop_record(struct recorder * rec)$/;"	f
+stop_record_internal	samples/iat_record_sample/linuxrec.c	/^static int stop_record_internal(snd_pcm_t *pcm)$/;"	f	file:
+xrun_recovery	samples/iat_record_sample/linuxrec.c	/^static int xrun_recovery(snd_pcm_t *handle, int err)$/;"	f	file:
+RECORD_ERR_BASE	samples/iat_record_sample/linuxrec.h	/^	RECORD_ERR_BASE = 0,$/;"	e	enum:__anon2
+RECORD_ERR_GENERAL	samples/iat_record_sample/linuxrec.h	/^	RECORD_ERR_GENERAL,$/;"	e	enum:__anon2
+RECORD_ERR_INVAL	samples/iat_record_sample/linuxrec.h	/^	RECORD_ERR_INVAL,$/;"	e	enum:__anon2
+RECORD_ERR_MEMFAIL	samples/iat_record_sample/linuxrec.h	/^	RECORD_ERR_MEMFAIL,$/;"	e	enum:__anon2
+RECORD_ERR_NOT_READY	samples/iat_record_sample/linuxrec.h	/^	RECORD_ERR_NOT_READY$/;"	e	enum:__anon2
+__IFLY_WINREC_H__	samples/iat_record_sample/linuxrec.h	21;"	d
+audiobuf	samples/iat_record_sample/linuxrec.h	/^	char *audiobuf;$/;"	m	struct:recorder
+bits_per_frame	samples/iat_record_sample/linuxrec.h	/^	int bits_per_frame;$/;"	m	struct:recorder
+bufcount	samples/iat_record_sample/linuxrec.h	/^	unsigned int bufcount; $/;"	m	struct:recorder
+buffer_frames	samples/iat_record_sample/linuxrec.h	/^	size_t buffer_frames;$/;"	m	struct:recorder
+buffer_time	samples/iat_record_sample/linuxrec.h	/^	unsigned int buffer_time;$/;"	m	struct:recorder
+bufheader	samples/iat_record_sample/linuxrec.h	/^	void * bufheader;$/;"	m	struct:recorder
+index	samples/iat_record_sample/linuxrec.h	/^		int	index;$/;"	m	union:__anon3::__anon4
+name	samples/iat_record_sample/linuxrec.h	/^		char *	name;$/;"	m	union:__anon3::__anon4
+on_data_ind	samples/iat_record_sample/linuxrec.h	/^	void (*on_data_ind)(char *data, unsigned long len, void *user_para);$/;"	m	struct:recorder
+period_frames	samples/iat_record_sample/linuxrec.h	/^	size_t period_frames;$/;"	m	struct:recorder
+period_time	samples/iat_record_sample/linuxrec.h	/^	unsigned int period_time;$/;"	m	struct:recorder
+rec_thread	samples/iat_record_sample/linuxrec.h	/^	pthread_t rec_thread; $/;"	m	struct:recorder
+record_dev_id	samples/iat_record_sample/linuxrec.h	/^}record_dev_id;$/;"	t	typeref:struct:__anon3
+recorder	samples/iat_record_sample/linuxrec.h	/^struct recorder {$/;"	s
+resv	samples/iat_record_sample/linuxrec.h	/^		void *	resv;$/;"	m	union:__anon3::__anon4
+state	samples/iat_record_sample/linuxrec.h	/^	volatile int state;		\/* internal record state *\/$/;"	m	struct:recorder
+u	samples/iat_record_sample/linuxrec.h	/^	}u;$/;"	m	struct:__anon3	typeref:union:__anon3::__anon4
+user_cb_para	samples/iat_record_sample/linuxrec.h	/^	void * user_cb_para;$/;"	m	struct:recorder
+wavein_hdl	samples/iat_record_sample/linuxrec.h	/^	void * wavein_hdl;$/;"	m	struct:recorder
+DEFAULT_FORMAT	samples/iat_record_sample/speech_recognizer.c	30;"	d	file:
+DEFAULT_SESSION_PARA	samples/iat_record_sample/speech_recognizer.c	27;"	d	file:
+SR_DBGON	samples/iat_record_sample/speech_recognizer.c	20;"	d	file:
+SR_MALLOC	samples/iat_record_sample/speech_recognizer.c	48;"	d	file:
+SR_MEMSET	samples/iat_record_sample/speech_recognizer.c	50;"	d	file:
+SR_MFREE	samples/iat_record_sample/speech_recognizer.c	49;"	d	file:
+SR_STATE_INIT	samples/iat_record_sample/speech_recognizer.c	/^	SR_STATE_INIT,$/;"	e	enum:__anon5	file:
+SR_STATE_STARTED	samples/iat_record_sample/speech_recognizer.c	/^	SR_STATE_STARTED$/;"	e	enum:__anon5	file:
+Sleep	samples/iat_record_sample/speech_recognizer.c	/^static void Sleep(size_t ms)$/;"	f	file:
+end_sr_on_error	samples/iat_record_sample/speech_recognizer.c	/^static void end_sr_on_error(struct speech_rec *sr, int errcode)$/;"	f	file:
+end_sr_on_vad	samples/iat_record_sample/speech_recognizer.c	/^static void end_sr_on_vad(struct speech_rec *sr)$/;"	f	file:
+iat_cb	samples/iat_record_sample/speech_recognizer.c	/^static void iat_cb(char *data, unsigned long len, void *user_para)$/;"	f	file:
+skip_space	samples/iat_record_sample/speech_recognizer.c	/^static char * skip_space(char *s)$/;"	f	file:
+sr_dbg	samples/iat_record_sample/speech_recognizer.c	22;"	d	file:
+sr_dbg	samples/iat_record_sample/speech_recognizer.c	24;"	d	file:
+sr_init	samples/iat_record_sample/speech_recognizer.c	/^int sr_init(struct speech_rec * sr, const char * session_begin_params, $/;"	f
+sr_init_ex	samples/iat_record_sample/speech_recognizer.c	/^int sr_init_ex(struct speech_rec * sr, const char * session_begin_params, $/;"	f
+sr_start_listening	samples/iat_record_sample/speech_recognizer.c	/^int sr_start_listening(struct speech_rec *sr)$/;"	f
+sr_stop_listening	samples/iat_record_sample/speech_recognizer.c	/^int sr_stop_listening(struct speech_rec *sr)$/;"	f
+sr_uninit	samples/iat_record_sample/speech_recognizer.c	/^void sr_uninit(struct speech_rec * sr)$/;"	f
+sr_write_audio_data	samples/iat_record_sample/speech_recognizer.c	/^int sr_write_audio_data(struct speech_rec *sr, char *data, unsigned int len)$/;"	f
+update_format_from_sessionparam	samples/iat_record_sample/speech_recognizer.c	/^static int update_format_from_sessionparam(const char * session_para, WAVEFORMATEX *wavefmt)$/;"	f	file:
+wait_for_rec_stop	samples/iat_record_sample/speech_recognizer.c	/^static void wait_for_rec_stop(struct recorder *rec, unsigned int timeout_ms)$/;"	f	file:
+END_REASON_VAD_DETECT	samples/iat_record_sample/speech_recognizer.h	32;"	d
+E_SR_ALREADY	samples/iat_record_sample/speech_recognizer.h	23;"	d
+E_SR_INVAL	samples/iat_record_sample/speech_recognizer.h	21;"	d
+E_SR_NOACTIVEDEVICE	samples/iat_record_sample/speech_recognizer.h	19;"	d
+E_SR_NOMEM	samples/iat_record_sample/speech_recognizer.h	20;"	d
+E_SR_RECORDFAIL	samples/iat_record_sample/speech_recognizer.h	22;"	d
+SR_MIC	samples/iat_record_sample/speech_recognizer.h	/^	SR_MIC,	\/* write data from mic *\/$/;"	e	enum:sr_audsrc
+SR_USER	samples/iat_record_sample/speech_recognizer.h	/^	SR_USER	\/* write data from user by calling API *\/$/;"	e	enum:sr_audsrc
+aud_src	samples/iat_record_sample/speech_recognizer.h	/^	enum sr_audsrc aud_src;  \/* from mic or manual  stream write *\/$/;"	m	struct:speech_rec	typeref:enum:speech_rec::sr_audsrc
+audio_status	samples/iat_record_sample/speech_recognizer.h	/^	int audio_status;$/;"	m	struct:speech_rec
+ep_stat	samples/iat_record_sample/speech_recognizer.h	/^	int ep_stat;$/;"	m	struct:speech_rec
+notif	samples/iat_record_sample/speech_recognizer.h	/^	struct speech_rec_notifier notif;$/;"	m	struct:speech_rec	typeref:struct:speech_rec::speech_rec_notifier
+on_result	samples/iat_record_sample/speech_recognizer.h	/^	void (*on_result)(const char *result, char is_last);$/;"	m	struct:speech_rec_notifier
+on_speech_begin	samples/iat_record_sample/speech_recognizer.h	/^	void (*on_speech_begin)();$/;"	m	struct:speech_rec_notifier
+on_speech_end	samples/iat_record_sample/speech_recognizer.h	/^	void (*on_speech_end)(int reason);	\/* 0 if VAD.  others, error : see E_SR_xxx and msp_errors.h  *\/$/;"	m	struct:speech_rec_notifier
+rec_stat	samples/iat_record_sample/speech_recognizer.h	/^	int rec_stat;$/;"	m	struct:speech_rec
+recorder	samples/iat_record_sample/speech_recognizer.h	/^	struct recorder *recorder;$/;"	m	struct:speech_rec	typeref:struct:speech_rec::recorder
+session_begin_params	samples/iat_record_sample/speech_recognizer.h	/^	char * session_begin_params;$/;"	m	struct:speech_rec
+session_id	samples/iat_record_sample/speech_recognizer.h	/^	const char * session_id;$/;"	m	struct:speech_rec
+speech_rec	samples/iat_record_sample/speech_recognizer.h	/^struct speech_rec {$/;"	s
+speech_rec_notifier	samples/iat_record_sample/speech_recognizer.h	/^struct speech_rec_notifier {$/;"	s
+sr_audsrc	samples/iat_record_sample/speech_recognizer.h	/^enum sr_audsrc$/;"	g
+state	samples/iat_record_sample/speech_recognizer.h	/^	volatile int state;$/;"	m	struct:speech_rec
+BIN_TARGET	samples/iat_sample/Makefile	/^BIN_TARGET = $(DIR_BIN)\/$(TARGET)$/;"	m
+CFLAGS	samples/iat_sample/Makefile	/^CFLAGS = -g -Wall -I$(DIR_INC)$/;"	m
+CROSS_COMPILE	samples/iat_sample/Makefile	/^CROSS_COMPILE = $/;"	m
+DIR_BIN	samples/iat_sample/Makefile	/^DIR_BIN = ..\/..\/bin$/;"	m
+DIR_INC	samples/iat_sample/Makefile	/^DIR_INC = ..\/..\/include$/;"	m
+DIR_LIB	samples/iat_sample/Makefile	/^DIR_LIB = ..\/..\/libs$/;"	m
+LDFLAGS	samples/iat_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x64$/;"	m
+LDFLAGS	samples/iat_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x86 $/;"	m
+OBJECTS	samples/iat_sample/Makefile	/^OBJECTS := $(patsubst %.c,%.o,$(wildcard *.c))$/;"	m
+TARGET	samples/iat_sample/Makefile	/^TARGET	= iat_sample$/;"	m
+BUFFER_SIZE	samples/iat_sample/iat_sample.c	14;"	d	file:
+FRAME_LEN	samples/iat_sample/iat_sample.c	15;"	d	file:
+HINTS_SIZE	samples/iat_sample/iat_sample.c	16;"	d	file:
+main	samples/iat_sample/iat_sample.c	/^int main(int argc, char* argv[])$/;"	f
+run_iat	samples/iat_sample/iat_sample.c	/^void run_iat(const char* audio_file, const char* session_begin_params)$/;"	f
+upload_userwords	samples/iat_sample/iat_sample.c	/^int upload_userwords()$/;"	f
+BIN_TARGET	samples/ise_sample/Makefile	/^BIN_TARGET = $(DIR_BIN)\/$(TARGET)$/;"	m
+CFLAGS	samples/ise_sample/Makefile	/^CFLAGS = -g -Wall -I$(DIR_INC)$/;"	m
+CROSS_COMPILE	samples/ise_sample/Makefile	/^CROSS_COMPILE = $/;"	m
+DIR_BIN	samples/ise_sample/Makefile	/^DIR_BIN = ..\/..\/bin$/;"	m
+DIR_INC	samples/ise_sample/Makefile	/^DIR_INC = ..\/..\/include$/;"	m
+DIR_LIB	samples/ise_sample/Makefile	/^DIR_LIB = ..\/..\/libs$/;"	m
+LDFLAGS	samples/ise_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x64$/;"	m
+LDFLAGS	samples/ise_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x86 $/;"	m
+OBJECTS	samples/ise_sample/Makefile	/^OBJECTS := $(patsubst %.c,%.o,$(wildcard *.c))$/;"	m
+TARGET	samples/ise_sample/Makefile	/^TARGET	= ise_sample$/;"	m
+FRAME_LEN	samples/ise_sample/ise_sample.c	10;"	d	file:
+main	samples/ise_sample/ise_sample.c	/^int main(int argc, char* argv[])$/;"	f
+BIN_TARGET	samples/sch_speak_sample/Makefile	/^BIN_TARGET = $(DIR_BIN)\/$(TARGET)$/;"	m
+CFLAGS	samples/sch_speak_sample/Makefile	/^CFLAGS = -g -Wall -I$(DIR_INC)$/;"	m
+CROSS_COMPILE	samples/sch_speak_sample/Makefile	/^CROSS_COMPILE = $/;"	m
+DIR_BIN	samples/sch_speak_sample/Makefile	/^DIR_BIN = ..\/..\/bin$/;"	m
+DIR_INC	samples/sch_speak_sample/Makefile	/^DIR_INC = ..\/..\/include$/;"	m
+DIR_LIB	samples/sch_speak_sample/Makefile	/^DIR_LIB = ..\/..\/libs$/;"	m
+LDFLAGS	samples/sch_speak_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x64$/;"	m
+LDFLAGS	samples/sch_speak_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x86 $/;"	m
+OBJECTS	samples/sch_speak_sample/Makefile	/^OBJECTS := $(patsubst %.c,%.o,$(wildcard *.c))$/;"	m
+TARGET	samples/sch_speak_sample/Makefile	/^TARGET	= sch_speak_sample$/;"	m
+BUFFER_SIZE	samples/sch_speak_sample/sch_speak_sample.c	14;"	d	file:
+FRAME_LEN	samples/sch_speak_sample/sch_speak_sample.c	15;"	d	file:
+HINTS_SIZE	samples/sch_speak_sample/sch_speak_sample.c	16;"	d	file:
+main	samples/sch_speak_sample/sch_speak_sample.c	/^int main(int argc, char* argv[])$/;"	f
+run_iat	samples/sch_speak_sample/sch_speak_sample.c	/^void run_iat(const char* audio_file, const char* session_begin_params)$/;"	f
+BIN_TARGET	samples/sch_text_sample/Makefile	/^BIN_TARGET = $(DIR_BIN)\/$(TARGET)$/;"	m
+CFLAGS	samples/sch_text_sample/Makefile	/^CFLAGS = -g -Wall -I$(DIR_INC)$/;"	m
+CROSS_COMPILE	samples/sch_text_sample/Makefile	/^CROSS_COMPILE = $/;"	m
+DIR_BIN	samples/sch_text_sample/Makefile	/^DIR_BIN = ..\/..\/bin$/;"	m
+DIR_INC	samples/sch_text_sample/Makefile	/^DIR_INC = ..\/..\/include$/;"	m
+DIR_LIB	samples/sch_text_sample/Makefile	/^DIR_LIB = ..\/..\/libs$/;"	m
+LDFLAGS	samples/sch_text_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x64$/;"	m
+LDFLAGS	samples/sch_text_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x86 $/;"	m
+OBJECTS	samples/sch_text_sample/Makefile	/^OBJECTS := $(patsubst %.c,%.o,$(wildcard *.c))$/;"	m
+TARGET	samples/sch_text_sample/Makefile	/^TARGET	= sch_text_sample$/;"	m
+RESULTTEXT	samples/sch_text_sample/sch_text_sample.c	14;"	d	file:
+SOURCETEXT	samples/sch_text_sample/sch_text_sample.c	13;"	d	file:
+main	samples/sch_text_sample/sch_text_sample.c	/^int main(int argc, char* argv[])$/;"	f
+BIN_TARGET	samples/sch_translate_sample/Makefile	/^BIN_TARGET = $(DIR_BIN)\/$(TARGET)$/;"	m
+CFLAGS	samples/sch_translate_sample/Makefile	/^CFLAGS = -g -Wall -I$(DIR_INC)$/;"	m
+CROSS_COMPILE	samples/sch_translate_sample/Makefile	/^CROSS_COMPILE = $/;"	m
+DIR_BIN	samples/sch_translate_sample/Makefile	/^DIR_BIN = ..\/..\/bin$/;"	m
+DIR_INC	samples/sch_translate_sample/Makefile	/^DIR_INC = ..\/..\/include$/;"	m
+DIR_LIB	samples/sch_translate_sample/Makefile	/^DIR_LIB = ..\/..\/libs$/;"	m
+LDFLAGS	samples/sch_translate_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x64$/;"	m
+LDFLAGS	samples/sch_translate_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x86 $/;"	m
+OBJECTS	samples/sch_translate_sample/Makefile	/^OBJECTS := $(patsubst %.c,%.o,$(wildcard *.c))$/;"	m
+TARGET	samples/sch_translate_sample/Makefile	/^TARGET	= sch_translate_sample$/;"	m
+LEX_BEGIN_ARRAY	samples/sch_translate_sample/json.c	/^	LEX_BEGIN_ARRAY,$/;"	e	enum:LEX_VALUE	file:
+LEX_BEGIN_OBJECT	samples/sch_translate_sample/json.c	/^	LEX_BEGIN_OBJECT,$/;"	e	enum:LEX_VALUE	file:
+LEX_END_ARRAY	samples/sch_translate_sample/json.c	/^	LEX_END_ARRAY,$/;"	e	enum:LEX_VALUE	file:
+LEX_END_OBJECT	samples/sch_translate_sample/json.c	/^	LEX_END_OBJECT,$/;"	e	enum:LEX_VALUE	file:
+LEX_ERROR	samples/sch_translate_sample/json.c	/^	LEX_ERROR,$/;"	e	enum:LEX_VALUE	file:
+LEX_FALSE	samples/sch_translate_sample/json.c	/^	LEX_FALSE,$/;"	e	enum:LEX_VALUE	file:
+LEX_INVALID_CHARACTER	samples/sch_translate_sample/json.c	/^	LEX_INVALID_CHARACTER,$/;"	e	enum:LEX_VALUE	file:
+LEX_MEMORY	samples/sch_translate_sample/json.c	/^	LEX_MEMORY$/;"	e	enum:LEX_VALUE	file:
+LEX_MORE	samples/sch_translate_sample/json.c	/^{ LEX_MORE = 0,$/;"	e	enum:LEX_VALUE	file:
+LEX_NAME_SEPARATOR	samples/sch_translate_sample/json.c	/^	LEX_NAME_SEPARATOR,$/;"	e	enum:LEX_VALUE	file:
+LEX_NULL	samples/sch_translate_sample/json.c	/^	LEX_NULL,$/;"	e	enum:LEX_VALUE	file:
+LEX_NUMBER	samples/sch_translate_sample/json.c	/^	LEX_NUMBER,$/;"	e	enum:LEX_VALUE	file:
+LEX_STRING	samples/sch_translate_sample/json.c	/^	LEX_STRING,$/;"	e	enum:LEX_VALUE	file:
+LEX_TRUE	samples/sch_translate_sample/json.c	/^	LEX_TRUE,$/;"	e	enum:LEX_VALUE	file:
+LEX_VALUE	samples/sch_translate_sample/json.c	/^enum LEX_VALUE$/;"	g	file:
+LEX_VALUE_SEPARATOR	samples/sch_translate_sample/json.c	/^	LEX_VALUE_SEPARATOR,$/;"	e	enum:LEX_VALUE	file:
+RSTRING_DEFAULT	samples/sch_translate_sample/json.c	52;"	d	file:
+RSTRING_INCSTEP	samples/sch_translate_sample/json.c	51;"	d	file:
+RS_MEMORY	samples/sch_translate_sample/json.c	/^{ RS_MEMORY, RS_OK = 1, RS_UNKNOWN };$/;"	e	enum:rui_string_error_codes	file:
+RS_OK	samples/sch_translate_sample/json.c	/^{ RS_MEMORY, RS_OK = 1, RS_UNKNOWN };$/;"	e	enum:rui_string_error_codes	file:
+RS_UNKNOWN	samples/sch_translate_sample/json.c	/^{ RS_MEMORY, RS_OK = 1, RS_UNKNOWN };$/;"	e	enum:rui_string_error_codes	file:
+intern_json_free_value	samples/sch_translate_sample/json.c	/^intern_json_free_value (json_t ** value)$/;"	f	file:
+json_escape	samples/sch_translate_sample/json.c	/^json_escape (const char *text)$/;"	f
+json_find_first_label	samples/sch_translate_sample/json.c	/^json_find_first_label (const json_t * object, const char *text_label)$/;"	f
+json_format_string	samples/sch_translate_sample/json.c	/^json_format_string (const char *text)$/;"	f
+json_free_value	samples/sch_translate_sample/json.c	/^json_free_value (json_t ** value)$/;"	f
+json_insert_child	samples/sch_translate_sample/json.c	/^json_insert_child (json_t * parent, json_t * child)$/;"	f
+json_insert_pair_into_object	samples/sch_translate_sample/json.c	/^json_insert_pair_into_object (json_t * parent, const char *text_label, json_t * value)$/;"	f
+json_jpi_init	samples/sch_translate_sample/json.c	/^json_jpi_init (struct json_parsing_info *jpi)$/;"	f
+json_new_array	samples/sch_translate_sample/json.c	/^json_new_array (void)$/;"	f
+json_new_false	samples/sch_translate_sample/json.c	/^json_new_false (void)$/;"	f
+json_new_null	samples/sch_translate_sample/json.c	/^json_new_null (void)$/;"	f
+json_new_number	samples/sch_translate_sample/json.c	/^json_new_number (const char *text)$/;"	f
+json_new_object	samples/sch_translate_sample/json.c	/^json_new_object (void)$/;"	f
+json_new_string	samples/sch_translate_sample/json.c	/^json_new_string (const char *text)$/;"	f
+json_new_true	samples/sch_translate_sample/json.c	/^json_new_true (void)$/;"	f
+json_new_value	samples/sch_translate_sample/json.c	/^json_new_value (const enum json_value_type type)$/;"	f
+json_parse_document	samples/sch_translate_sample/json.c	/^json_parse_document (json_t ** root, const char *text)$/;"	f
+json_parse_fragment	samples/sch_translate_sample/json.c	/^json_parse_fragment (struct json_parsing_info *info, const char *buffer)$/;"	f
+json_saxy_parse	samples/sch_translate_sample/json.c	/^json_saxy_parse (struct json_saxy_parser_status *jsps, struct json_saxy_functions *jsf, char c)$/;"	f
+json_stream_output	samples/sch_translate_sample/json.c	/^json_stream_output (FILE * file, json_t * root)$/;"	f
+json_stream_parse	samples/sch_translate_sample/json.c	/^json_stream_parse (FILE * file, json_t ** document)$/;"	f
+json_strip_white_spaces	samples/sch_translate_sample/json.c	/^json_strip_white_spaces (char *text)$/;"	f
+json_tree_to_string	samples/sch_translate_sample/json.c	/^json_tree_to_string (json_t * root, char **text)$/;"	f
+json_unescape	samples/sch_translate_sample/json.c	/^json_unescape (const char *text)$/;"	f
+lexer	samples/sch_translate_sample/json.c	/^lexer (const char *buffer, const char **p, unsigned int *state, rcstring ** text, size_t *line)$/;"	f
+rcs_catc	samples/sch_translate_sample/json.c	/^rcs_catc (rcstring * pre, const char c)$/;"	f
+rcs_catcs	samples/sch_translate_sample/json.c	/^rcs_catcs (rcstring * pre, const char *pos, const size_t length)$/;"	f
+rcs_create	samples/sch_translate_sample/json.c	/^rcs_create (size_t length)$/;"	f
+rcs_free	samples/sch_translate_sample/json.c	/^rcs_free (rcstring ** rcs)$/;"	f
+rcs_length	samples/sch_translate_sample/json.c	/^rcs_length (rcstring * rcs)$/;"	f
+rcs_resize	samples/sch_translate_sample/json.c	/^rcs_resize (rcstring * rcs, size_t length)$/;"	f
+rcs_unwrap	samples/sch_translate_sample/json.c	/^rcs_unwrap (rcstring * rcs)$/;"	f
+rstring_code	samples/sch_translate_sample/json.c	/^typedef enum rui_string_error_codes rstring_code;$/;"	t	typeref:enum:rui_string_error_codes	file:
+rui_string_error_codes	samples/sch_translate_sample/json.c	/^enum rui_string_error_codes$/;"	g	file:
+JSON_ARRAY	samples/sch_translate_sample/json.h	/^	JSON_ARRAY, $/;"	e	enum:json_value_type
+JSON_BAD_TREE_STRUCTURE	samples/sch_translate_sample/json.h	/^		JSON_BAD_TREE_STRUCTURE,	\/*!< the document tree structure is malformed *\/$/;"	e	enum:json_error
+JSON_FALSE	samples/sch_translate_sample/json.h	/^	JSON_FALSE, $/;"	e	enum:json_value_type
+JSON_H	samples/sch_translate_sample/json.h	34;"	d
+JSON_ILLEGAL_CHARACTER	samples/sch_translate_sample/json.h	/^		JSON_ILLEGAL_CHARACTER,	\/*!< the currently parsed character does not belong here *\/$/;"	e	enum:json_error
+JSON_INCOMPATIBLE_TYPE	samples/sch_translate_sample/json.h	/^		JSON_INCOMPATIBLE_TYPE,	\/*!< the currently parsed type does not belong here *\/$/;"	e	enum:json_error
+JSON_INCOMPLETE_DOCUMENT	samples/sch_translate_sample/json.h	/^		JSON_INCOMPLETE_DOCUMENT,	\/*!< the parsed document didn't ended *\/$/;"	e	enum:json_error
+JSON_MALFORMED_DOCUMENT	samples/sch_translate_sample/json.h	/^		JSON_MALFORMED_DOCUMENT,	\/* the JSON document which was fed to this parser is malformed *\/$/;"	e	enum:json_error
+JSON_MAXIMUM_LENGTH	samples/sch_translate_sample/json.h	/^		JSON_MAXIMUM_LENGTH,	\/*!< the parsed string reached the maximum allowed size *\/$/;"	e	enum:json_error
+JSON_MAX_STRING_LENGTH	samples/sch_translate_sample/json.h	41;"	d
+JSON_MEMORY	samples/sch_translate_sample/json.h	/^		JSON_MEMORY,	\/*!< an error occurred when allocating memory *\/$/;"	e	enum:json_error
+JSON_NULL	samples/sch_translate_sample/json.h	/^	JSON_NULL $/;"	e	enum:json_value_type
+JSON_NUMBER	samples/sch_translate_sample/json.h	/^	JSON_NUMBER, $/;"	e	enum:json_value_type
+JSON_OBJECT	samples/sch_translate_sample/json.h	/^	JSON_OBJECT, $/;"	e	enum:json_value_type
+JSON_OK	samples/sch_translate_sample/json.h	/^		JSON_OK = 1,	\/*!< everything went smoothly *\/$/;"	e	enum:json_error
+JSON_STRING	samples/sch_translate_sample/json.h	/^	{ JSON_STRING = 0, $/;"	e	enum:json_value_type
+JSON_TRUE	samples/sch_translate_sample/json.h	/^	JSON_TRUE, $/;"	e	enum:json_value_type
+JSON_UNKNOWN_PROBLEM	samples/sch_translate_sample/json.h	/^		JSON_UNKNOWN_PROBLEM	\/*!< some random, unaccounted problem occurred *\/$/;"	e	enum:json_error
+JSON_WAITING_FOR_EOF	samples/sch_translate_sample/json.h	/^		JSON_WAITING_FOR_EOF,	\/*!< A complete JSON document tree was already finished but needs to get to EOF. Other characters beyond whitespaces produce errors *\/$/;"	e	enum:json_error
+child	samples/sch_translate_sample/json.h	/^		struct json_value *child;	\/*!< The pointer pointing to the first child node in the document tree *\/$/;"	m	struct:json_value	typeref:struct:json_value::json_value
+child_end	samples/sch_translate_sample/json.h	/^		struct json_value *child_end;	\/*!< The pointer pointing to the last child node in the document tree *\/$/;"	m	struct:json_value	typeref:struct:json_value::json_value
+close_array	samples/sch_translate_sample/json.h	/^		int (*close_array) (void);$/;"	m	struct:json_saxy_functions
+close_object	samples/sch_translate_sample/json.h	/^		int (*close_object) (void);$/;"	m	struct:json_saxy_functions
+cursor	samples/sch_translate_sample/json.h	/^		json_t *cursor;	\/*!< pointers to nodes belonging to the document tree which aid the document parsing *\/$/;"	m	struct:json_parsing_info
+json_error	samples/sch_translate_sample/json.h	/^	enum json_error$/;"	g
+json_parsing_info	samples/sch_translate_sample/json.h	/^	struct json_parsing_info$/;"	s
+json_saxy_functions	samples/sch_translate_sample/json.h	/^	struct json_saxy_functions$/;"	s
+json_saxy_parser_status	samples/sch_translate_sample/json.h	/^	struct json_saxy_parser_status$/;"	s
+json_t	samples/sch_translate_sample/json.h	/^	} json_t;$/;"	t	typeref:struct:json_value
+json_value	samples/sch_translate_sample/json.h	/^	typedef struct json_value$/;"	s
+json_value_type	samples/sch_translate_sample/json.h	/^	enum json_value_type$/;"	g
+label_value_separator	samples/sch_translate_sample/json.h	/^		int (*label_value_separator) (void);$/;"	m	struct:json_saxy_functions
+length	samples/sch_translate_sample/json.h	/^		size_t length;	\/*<! put in place to avoid strlen() calls *\/$/;"	m	struct:rui_cstring
+lex_state	samples/sch_translate_sample/json.h	/^		unsigned int lex_state;$/;"	m	struct:json_parsing_info
+lex_text	samples/sch_translate_sample/json.h	/^		rcstring *lex_text;$/;"	m	struct:json_parsing_info
+line	samples/sch_translate_sample/json.h	/^		size_t line;	\/\/ current document line$/;"	m	struct:json_parsing_info
+max	samples/sch_translate_sample/json.h	/^		size_t max;	\/*<! usable memory allocated to text minus the space for the nul character *\/$/;"	m	struct:rui_cstring
+new_false	samples/sch_translate_sample/json.h	/^		int (*new_false) (void);$/;"	m	struct:json_saxy_functions
+new_null	samples/sch_translate_sample/json.h	/^		int (*new_null) (void);$/;"	m	struct:json_saxy_functions
+new_number	samples/sch_translate_sample/json.h	/^		int (*new_number) (char *text);$/;"	m	struct:json_saxy_functions
+new_string	samples/sch_translate_sample/json.h	/^		int (*new_string) (char *text);$/;"	m	struct:json_saxy_functions
+new_true	samples/sch_translate_sample/json.h	/^		int (*new_true) (void);$/;"	m	struct:json_saxy_functions
+next	samples/sch_translate_sample/json.h	/^		struct json_value *next;	\/*!< The pointer pointing to the next element in the FIFO sibling list *\/$/;"	m	struct:json_value	typeref:struct:json_value::json_value
+open_array	samples/sch_translate_sample/json.h	/^		int (*open_array) (void);$/;"	m	struct:json_saxy_functions
+open_object	samples/sch_translate_sample/json.h	/^		int (*open_object) (void);$/;"	m	struct:json_saxy_functions
+p	samples/sch_translate_sample/json.h	/^		const char *p;$/;"	m	struct:json_parsing_info
+parent	samples/sch_translate_sample/json.h	/^		struct json_value *parent;	\/*!< The pointer pointing to the parent node in the document tree *\/$/;"	m	struct:json_value	typeref:struct:json_value::json_value
+previous	samples/sch_translate_sample/json.h	/^		struct json_value *previous;	\/*!< The pointer pointing to the previous element in the FIFO sibling list *\/$/;"	m	struct:json_value	typeref:struct:json_value::json_value
+rcstring	samples/sch_translate_sample/json.h	/^	typedef struct rui_cstring rcstring;$/;"	t	typeref:struct:rui_cstring
+rui_cstring	samples/sch_translate_sample/json.h	/^	struct rui_cstring$/;"	s
+sibling_separator	samples/sch_translate_sample/json.h	/^		int (*sibling_separator) (void);$/;"	m	struct:json_saxy_functions
+state	samples/sch_translate_sample/json.h	/^		unsigned int state;	\/*!< current parser state *\/$/;"	m	struct:json_saxy_parser_status
+state	samples/sch_translate_sample/json.h	/^		unsigned int state;	\/*!< the state where the parsing was left on the last parser run *\/$/;"	m	struct:json_parsing_info
+string_length_limit_reached	samples/sch_translate_sample/json.h	/^		int string_length_limit_reached;	\/*!< flag informing if the string limit length defined by JSON_MAX_STRING_LENGTH was reached *\/$/;"	m	struct:json_parsing_info
+string_length_limit_reached	samples/sch_translate_sample/json.h	/^		int string_length_limit_reached;	\/*!< flag informing if the string limit length defined by JSON_MAX_STRING_LENGTH was reached *\/$/;"	m	struct:json_saxy_parser_status
+temp	samples/sch_translate_sample/json.h	/^		rcstring *temp;	\/*!< temporary string which will be used to build up parsed strings between parser runs. *\/$/;"	m	struct:json_saxy_parser_status
+text	samples/sch_translate_sample/json.h	/^		char *text;	\/*!< The text stored by the node. It stores UTF-8 strings and is used exclusively by the JSON_STRING and JSON_NUMBER node types *\/$/;"	m	struct:json_value
+text	samples/sch_translate_sample/json.h	/^		char *text;	\/*<! char c-string *\/$/;"	m	struct:rui_cstring
+type	samples/sch_translate_sample/json.h	/^		enum json_value_type type;	\/*!< the type of node *\/$/;"	m	struct:json_value	typeref:enum:json_value::json_value_type
+BUFFER_SIZE	samples/sch_translate_sample/sch_speak_sample.c	15;"	d	file:
+FRAME_LEN	samples/sch_translate_sample/sch_speak_sample.c	16;"	d	file:
+HINTS_SIZE	samples/sch_translate_sample/sch_speak_sample.c	17;"	d	file:
+json_pase	samples/sch_translate_sample/sch_speak_sample.c	/^int json_pase(char * rec_result)$/;"	f
+main	samples/sch_translate_sample/sch_speak_sample.c	/^int main(int argc, char* argv[])$/;"	f
+run_iat	samples/sch_translate_sample/sch_speak_sample.c	/^void run_iat(const char* audio_file, const char* session_begin_params)$/;"	f
+BIN_TARGET	samples/tts_sample/Makefile	/^BIN_TARGET = $(DIR_BIN)\/$(TARGET)$/;"	m
+CFLAGS	samples/tts_sample/Makefile	/^CFLAGS = -g -Wall -I$(DIR_INC)$/;"	m
+CROSS_COMPILE	samples/tts_sample/Makefile	/^CROSS_COMPILE = $/;"	m
+DIR_BIN	samples/tts_sample/Makefile	/^DIR_BIN = ..\/..\/bin$/;"	m
+DIR_INC	samples/tts_sample/Makefile	/^DIR_INC = ..\/..\/include$/;"	m
+DIR_LIB	samples/tts_sample/Makefile	/^DIR_LIB = ..\/..\/libs$/;"	m
+LDFLAGS	samples/tts_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x64$/;"	m
+LDFLAGS	samples/tts_sample/Makefile	/^LDFLAGS := -L$(DIR_LIB)\/x86 $/;"	m
+OBJECTS	samples/tts_sample/Makefile	/^OBJECTS := $(patsubst %.c,%.o,$(wildcard *.c))$/;"	m
+TARGET	samples/tts_sample/Makefile	/^TARGET	= tts_sample$/;"	m
+_wave_pcm_hdr	samples/tts_sample/tts_sample.c	/^typedef struct _wave_pcm_hdr$/;"	s	file:
+avg_bytes_per_sec	samples/tts_sample/tts_sample.c	/^	int		avg_bytes_per_sec;      \/\/ = 每秒字节数 : samples_per_sec * bits_per_sample \/ 8$/;"	m	struct:_wave_pcm_hdr	file:
+bits_per_sample	samples/tts_sample/tts_sample.c	/^	short int       bits_per_sample;        \/\/ = 量化比特数: 8 | 16$/;"	m	struct:_wave_pcm_hdr	file:
+block_align	samples/tts_sample/tts_sample.c	/^	short int       block_align;            \/\/ = 每采样点字节数 : wBitsPerSample \/ 8$/;"	m	struct:_wave_pcm_hdr	file:
+channels	samples/tts_sample/tts_sample.c	/^	short int       channels;               \/\/ = 通道数 : 1$/;"	m	struct:_wave_pcm_hdr	file:
+data	samples/tts_sample/tts_sample.c	/^	char            data[4];                \/\/ = "data";$/;"	m	struct:_wave_pcm_hdr	file:
+data_size	samples/tts_sample/tts_sample.c	/^	int		data_size;              \/\/ = 纯数据长度 : FileSize - 44 $/;"	m	struct:_wave_pcm_hdr	file:
+default_wav_hdr	samples/tts_sample/tts_sample.c	/^wave_pcm_hdr default_wav_hdr = $/;"	v
+fmt	samples/tts_sample/tts_sample.c	/^	char            fmt[4];                 \/\/ = "fmt "$/;"	m	struct:_wave_pcm_hdr	file:
+fmt_size	samples/tts_sample/tts_sample.c	/^	int		fmt_size;		\/\/ = 下一个结构体的大小 : 16$/;"	m	struct:_wave_pcm_hdr	file:
+format_tag	samples/tts_sample/tts_sample.c	/^	short int       format_tag;             \/\/ = PCM : 1$/;"	m	struct:_wave_pcm_hdr	file:
+main	samples/tts_sample/tts_sample.c	/^int main(int argc, char* argv[])$/;"	f
+riff	samples/tts_sample/tts_sample.c	/^	char            riff[4];                \/\/ = "RIFF"$/;"	m	struct:_wave_pcm_hdr	file:
+samples_per_sec	samples/tts_sample/tts_sample.c	/^	int		samples_per_sec;        \/\/ = 采样率 : 8000 | 6000 | 11025 | 16000$/;"	m	struct:_wave_pcm_hdr	file:
+size_8	samples/tts_sample/tts_sample.c	/^	int		size_8;                 \/\/ = FileSize - 8$/;"	m	struct:_wave_pcm_hdr	file:
+text_to_speech	samples/tts_sample/tts_sample.c	/^int text_to_speech(const char* src_text, const char* des_path, const char* params)$/;"	f
+wave	samples/tts_sample/tts_sample.c	/^	char            wave[4];                \/\/ = "WAVE"$/;"	m	struct:_wave_pcm_hdr	file:
+wave_pcm_hdr	samples/tts_sample/tts_sample.c	/^} wave_pcm_hdr;$/;"	t	typeref:struct:_wave_pcm_hdr	file:

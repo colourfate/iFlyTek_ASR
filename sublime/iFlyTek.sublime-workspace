@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list_head"
+			],
+			[
+				"heap",
+				"heap_list"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"cur",
+				"cur_heap"
+			],
+			[
+				"he",
+				"heap_first"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"u",
+				"uint32_t"
+			],
+			[
+				"data",
+				"data_end"
+			],
+			[
+				"sta",
+				"pmm_stack"
+			],
+			[
+				"hea",
+				"heap_top"
+			],
+			[
+				"heap_t",
+				"heap_top"
+			],
+			[
+				"pr",
+				"prev"
+			],
+			[
+				"alloc",
+				"allocated"
+			],
+			[
+				"cun",
+				"chunk"
+			],
+			[
+				"all",
+				"allocated"
+			],
+			[
+				"cu",
+				"cur_heap"
+			],
+			[
+				"page",
+				"page_table"
+			],
+			[
+				"pag",
+				"page_frame_num"
+			],
+			[
+				"uin",
+				"uint32_t"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"uint",
+				"uint8_t"
+			],
+			[
+				"pmm",
+				"pmm_stack_top"
+			],
+			[
+				"SRAM",
+				"SRAM_LENGTH"
+			],
+			[
+				"km",
+				"km_end"
+			],
+			[
+				"kd",
+				"kd_base"
+			],
+			[
+				"LED",
+				"LED1"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"L",
+				"LED1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 103.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"ls",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/colourfate/Workspace/iFlyTek_ASR"
+	],
+	"file_history":
+	[
+		"/home/colourfate/Workspace/Metabot/firmware/src/main.cpp",
+		"/home/colourfate/Workspace/Metabot/firmware/src/Maple/preflash/main.cpp",
+		"/home/colourfate/Workspace/Metabot/firmware/src/Maple/bootloader/main.cpp",
+		"/home/colourfate/Workspace/Metabot/firmware/src/Maple/bootloader/install.sh",
+		"/home/colourfate/Workspace/Metabot/firmware/src/Maple/bootloader/build-targets.mk",
+		"/home/colourfate/Workspace/Metabot/firmware/src/Maple/bootloader/bootloader.h.sample",
+		"/home/colourfate/Workspace/Metabot/firmware/src/Maple/bootloader/bootloader.h.robotis",
+		"/home/colourfate/Workspace/Metabot/firmware/src/Maple/LibRhoban/dxl.cpp",
+		"/home/colourfate/Workspace/Metabot/firmware/src/Maple/LibRhoban/dxl.h",
+		"/home/colourfate/Workspace/Metabot/firmware/src/imu.cpp",
+		"/home/colourfate/Workspace/Metabot/firmware/src/buzzer.cpp",
+		"/home/colourfate/Workspace/Metabot/firmware/src/prepare.sh",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/scheduler.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/drivers/uart.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/list.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/main.c",
+		"/home/colourfate/.config/sublime-text-3/Packages/User/Default (Linux).sublime-mousemap",
+		"/home/colourfate/.config/sublime-text-3/Packages/CTags/Default.sublime-mousemap",
+		"/home/colourfate/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
+		"/home/colourfate/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
+		"/home/colourfate/Workspace/stm32/WJM_OS/linker.ld",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/startup.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/os_core.S",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/scheduler.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/WJM_OS.info_elf",
+		"/home/colourfate/Workspace/c_test/3/main.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/inc/bit_band.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/Makefile",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/startup_stm32f10x_hd.s",
+		"/home/colourfate/Workspace/stm32/WJM_OS/drivers/delay.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/libs/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/drivers/led.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/WJM_OS.info_code",
+		"/home/colourfate/Workspace/stm32/WJM_OS/drivers/delay.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/drivers/led.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/libs/CMSIS/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/libs/CMSIS/CM3/CoreSupport/core_cm3.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/heap.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/heap.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/inc/types.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/mmu.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/mmu.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/back.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/pmm.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/pmm.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/Makefile.common",
+		"/home/colourfate/Workspace/stm32/WJM_OS/README.md",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/back.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/main.",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/vmm.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/src/vmm.h",
+		"/home/colourfate/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/colourfate/Workspace/stm32/WJM_OS/sublime/untitled.sublime-project",
+		"/home/colourfate/Workspace/stm32/WJM_boot/src/startup.c",
+		"/home/colourfate/Workspace/stm32/WJM_boot/linker.ld",
+		"/home/colourfate/Workspace/stm32/WJM_boot/drivers/console.h",
+		"/home/colourfate/Workspace/Hurlex-II/arch/i386/mm/pmm.h",
+		"/home/colourfate/Workspace/Hurlex-II/arch/i386/mm/pmm.c",
+		"/home/colourfate/Workspace/stm32/WJM_boot/drivers/uart.h",
+		"/home/colourfate/Workspace/stm32/WJM_boot/drivers/uart.c",
+		"/home/colourfate/Workspace/stm32/WJM_boot/drivers/console.c",
+		"/home/colourfate/Workspace/stm32/WJM_boot/src/main.c",
+		"/home/colourfate/Workspace/stm32/WJM_boot/drivers/Makefile",
+		"/home/colourfate/Workspace/stm32/WJM_boot/Makefile.common",
+		"/home/colourfate/Workspace/stm32/WJM_boot/drivers/delay.h",
+		"/home/colourfate/Workspace/stm32/WJM_boot/drivers/delay.c",
+		"/home/colourfate/Workspace/stm32/WJM_boot/drivers/led.h",
+		"/home/colourfate/Workspace/stm32/WJM_boot/drivers/led.c",
+		"/home/colourfate/Workspace/stm32/WJM_boot/inc/types.h",
+		"/home/colourfate/Workspace/stm32/WJM_boot/libs/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.c",
+		"/home/colourfate/Workspace/stm32/WJM_boot/libs/CMSIS/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h",
+		"/home/colourfate/Workspace/stm32/WJM_boot/inc/bit_band.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/drivers/Makefile",
+		"/home/colourfate/Workspace/stm32/WJM_OS/Makefile",
+		"/home/colourfate/Workspace/stm32/WJM_OS/libs/Makefile",
+		"/home/colourfate/Workspace/stm32/WJM_OS/driver/led.h",
+		"/home/colourfate/Workspace/stm32/WJM_OS/driver/led.c",
+		"/home/colourfate/Workspace/stm32/WJM_OS/tags",
+		"/home/colourfate/Workspace/stm32/WJM_OS/jlink_download.sh",
+		"/home/colourfate/Workspace/stm32/WJM_OS/README"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"dxl_set_position",
+			"_isr_vectors_offs",
+			"isr_vectors",
+			"PendSV_Handler",
+			"OSStart_Asm",
+			"BootRAM",
+			"OSStart_Asm",
+			"NVIC",
+			"R4",
+			"R2",
+			"LR",
+			"R1",
+			"R0",
+			"RO",
+			"STM",
+			"SUBS",
+			"CBZ",
+			"MRS",
+			"CPSID",
+			"ORR",
+			"BX",
+			"ADDS",
+			"LDM",
+			"STR",
+			"I",
+			"CPSIE",
+			"MSR",
+			"MOVS",
+			"STRB",
+			"LDR",
+			"; ",
+			"ptr",
+			"heap_top",
+			"heap",
+			"struct",
+			"data_start",
+			"malloc",
+			"->len",
+			"LENGTH",
+			"_estack",
+			"_min_stack",
+			"_estack",
+			"0x20000000",
+			"PROVIDE",
+			"bzero",
+			"_estack",
+			"stack",
+			"heap",
+			"SysTick",
+			"include"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"r4",
+			"r2",
+			"lr",
+			"r1",
+			"r0",
+			"stm",
+			"subs",
+			"cbz",
+			"mrs",
+			"cpsid",
+			"orr",
+			"bx",
+			"adds",
+			"ldm",
+			"str",
+			"i",
+			"cpsie",
+			"msr",
+			"mov",
+			"strb",
+			"ldr",
+			"/* "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "iFlyTek.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/u-boot-2017.09/sublime/uboot.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
